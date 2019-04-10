@@ -1,0 +1,657 @@
+ITS_DEVICE_ID,ITS_DEVICE_TYPE,RECORD_DATE,LOCATION_DESC,ITS_DEVICE_OWNER
+626,TRAFFICCAM,2/25/2016 0:00,Brighton and 31st,PWTES
+627,TRAFFICCAM,2/28/2016 0:00,Brighton and 44th,PWTES
+628,TRAFFICCAM,3/13/2016 0:00,Colfax and Wolff,PWTES
+146,Traffic camera,1/9/2012 0:00,15th and Welton,CCD Traffic Engineering
+147,Traffic camera,1/9/2012 0:00,15th and Larimer,CCD Traffic Engineering
+148,Traffic camera,1/9/2012 0:00,15th and Champa,CCD Traffic Engineering
+149,Traffic camera,1/9/2012 0:00,14th and Broadway,CCD Traffic Engineering
+150,Traffic camera,1/9/2012 0:00,14th and Bannock,CCD Traffic Engineering
+151,Traffic camera,1/9/2012 0:00,14th and Stout,CCD Traffic Engineering
+152,Traffic camera,1/9/2012 0:00,14th and Logan,CCD Traffic Engineering
+153,Traffic camera,1/9/2012 0:00,14th and Kalamath,CCD Traffic Engineering
+154,Traffic camera,1/9/2012 0:00,14th and Court,CCD Traffic Engineering
+155,Traffic camera,1/9/2012 0:00,14th and Cherokee,CCD Traffic Engineering
+156,Traffic camera,1/9/2012 0:00,14th and Arapahoe,CCD Traffic Engineering
+157,Traffic camera,1/9/2012 0:00,13th and Lincoln,CCD Traffic Engineering
+158,Traffic camera,1/9/2012 0:00,13th and Grant,CCD Traffic Engineering
+159,Traffic camera,1/9/2012 0:00,10th and Lincoln,CCD Traffic Engineering
+160,Traffic camera,1/9/2012 0:00,9th and Auraria,CCD Traffic Engineering
+161,Traffic camera,1/9/2012 0:00,8th and Zuni,CCD Traffic Engineering
+162,Traffic camera,1/9/2012 0:00,8th and Kalamath,CCD Traffic Engineering
+163,Traffic camera,1/9/2012 0:00,7th and Auraria Pkwy,CCD Traffic Engineering
+164,Traffic camera,1/9/2012 0:00,"5th and Walnut
+5th and Walnut
+5th and Walnut",CCD Traffic Engineering
+165,Traffic camera,1/9/2012 0:00,3rd and Josephine,CCD Traffic Engineering
+166,Traffic camera,1/9/2012 0:00,1st and University,CCD Traffic Engineering
+167,Traffic camera,1/9/2012 0:00,1st and Steele,CCD Traffic Engineering
+168,Traffic camera,1/9/2012 0:00,Auraria Overpass Ramp Gore Point,CCD Traffic Engineering
+169,Traffic camera,1/9/2012 0:00,Colfax and I-25,CCD Traffic Engineering
+170,Traffic camera,1/9/2012 0:00,I-25 and Alameda E,CCD Traffic Engineering
+171,Traffic camera,1/9/2012 0:00,I-25 and Speer,CCD Traffic Engineering
+172,Traffic camera,1/9/2012 0:00,I-270 and Quebec,CCD Traffic Engineering
+173,Traffic camera,1/9/2012 0:00,Florida and Santa Fe,CCD Traffic Engineering
+174,Traffic camera,1/9/2012 0:00,Federal and Mississippi,CCD Traffic Engineering
+175,Traffic camera,1/9/2012 0:00,23rd and Federal,CCD Traffic Engineering
+176,Traffic camera,1/9/2012 0:00,Downing and MLK and Champa,CCD Traffic Engineering
+177,Traffic camera,1/9/2012 0:00,Chambers GVR,CCD Traffic Engineering
+178,Traffic camera,1/9/2012 0:00,I-70 and Brighton Blvd,CCD Traffic Engineering
+179,Traffic camera,1/9/2012 0:00,I-70 (Stapleton Dr S) and Dahlia,CCD Traffic Engineering
+180,Traffic camera,1/9/2012 0:00,I-70 and Federal,CCD Traffic Engineering
+181,Traffic camera,1/9/2012 0:00,I-70 and Havana,CCD Traffic Engineering
+182,Traffic camera,1/9/2012 0:00,I-70 and Holly (Stapleton Dr S),CCD Traffic Engineering
+592,Traffic camera,12/8/2014 0:00,Downing and Welton,CCD Traffic Engineering
+594,Traffic camera,12/8/2014 0:00,I-25 and Speer,CCD Traffic Engineering
+595,Traffic camera,12/8/2014 0:00,12th St and Tremont Pl and Fox St and Colfax Ave,CCD Traffic Engineering
+597,Traffic camera,1/1/2013 0:00,15th and Stout,CCD Traffic Engineering
+598,Traffic camera,1/1/2014 0:00,Northfield and Dallas,CCD Traffic Engineering
+599,Traffic camera,1/1/2014 0:00,4th and Josephine,CCD Traffic Engineering
+600,Traffic camera,1/1/2014 0:00,Florida and Zuni,CCD Traffic Engineering
+601,Traffic camera,1/1/2014 0:00,13th and Arapahoe/Champa,CCD Traffic Engineering
+603,Traffic camera,1/20/2015 0:00,12th and Bannock,CCD Traffic Engineering
+604,Traffic camera,3/13/2015 0:00,11th and Yosemite,CCD Traffic Engineering
+605,Traffic camera,3/20/2015 0:00,14th and Yosemite,CCD Traffic Engineering
+606,Traffic camera,4/6/2015 0:00,Broadway and Virginia ,CCD Traffic Engineering
+607,Traffic camera,4/8/2015 0:00,Franklin and MLK,CCD Traffic Engineering
+608,Traffic camera,4/22/2015 0:00,Federal and Amherst,CCD Traffic Engineering
+609,Traffic camera,4/23/2015 0:00,Alameda and Santa Fe,CCD Traffic Engineering
+610,Traffic camera,4/24/2015 0:00,I-25 and Kalamath ,CCD Traffic Engineering
+611,Traffic camera,6/1/2015 0:00,67th and Tower,CCD Traffic Engineering
+612,Traffic camera,6/9/2015 0:00,17th and Garfield,CCD Traffic Engineering
+613,Traffic camera,7/27/2015 0:00,7th and Grant,CCD Traffic Engineering
+614,Traffic camera,7/27/2015 0:00,Central Park and Northfield ,CCD Traffic Engineering
+615,Traffic camera,7/27/2015 0:00,Central Park and 56th,CCD Traffic Engineering
+616,Traffic camera,10/15/2015 0:00,40th and Jackson,CCD Traffic Engineering
+617,Traffic camera,8/1/2014 0:00,I-25/Evans Pedestrian Bridge,CCD Traffic Engineering
+618,Traffic camera,11/20/2015 0:00,Vasquez and 52nd,CCD Traffic Engineering
+602,Traffic camera,1/1/2014 0:00,Mansfield and Tamarac,CCD Traffic Engineering
+619,Traffic camera,12/2/2215 0:00,Smith and Ulster,CCD Traffic Engineering
+51,DACS,1/9/2012 0:00,I-225 and Tamarac N,CCD Traffic Engineering
+52,DACS,1/9/2012 0:00,I-225 and Tamarac S,CCD Traffic Engineering
+53,DACS,1/9/2012 0:00,Yosemite and I-225 North Ramp,CCD Traffic Engineering
+54,DACS,1/9/2012 0:00,Yosemite and I-225 South Ramp,CCD Traffic Engineering
+57,DACS,1/9/2012 0:00,Sheridan and Jewell,CCD Traffic Engineering
+58,DACS,1/9/2012 0:00,Speer and Larimer,CCD Traffic Engineering
+59,DACS,1/9/2012 0:00,Leetsdale and Quebec,CCD Traffic Engineering
+60,DACS,1/9/2012 0:00,13th and Lincoln,CCD Traffic Engineering
+61,DACS,1/9/2012 0:00,18th and Lincoln,CCD Traffic Engineering
+62,DACS,1/9/2012 0:00,Lincoln and Walsh,CCD Traffic Engineering
+63,DACS,1/9/2012 0:00,20th and Market,CCD Traffic Engineering
+64,DACS,1/9/2012 0:00,Mississippi and South Platte River Dr,CCD Traffic Engineering
+65,DACS,1/9/2012 0:00,Mississippi and Santa Fe,CCD Traffic Engineering
+67,DACS,1/9/2012 0:00,56th and Quebec,CCD Traffic Engineering
+68,DACS,1/9/2012 0:00,Quincy and Sheridan,CCD Traffic Engineering
+69,DACS,1/9/2012 0:00,48th (GVR) and Tower,CCD Traffic Engineering
+70,DACS,1/9/2012 0:00,Alameda and Broadway,CCD Traffic Engineering
+71,DACS,1/9/2012 0:00,Alameda and Cherokee,CCD Traffic Engineering
+72,DACS,1/9/2012 0:00,Colorado and Alameda,CCD Traffic Engineering
+73,DACS,1/9/2012 0:00,Kalamath and Alameda,CCD Traffic Engineering
+74,DACS,1/9/2012 0:00,53rd and Quebec,CCD Traffic Engineering
+75,DACS,1/9/2012 0:00,Alameda and Lincoln,CCD Traffic Engineering
+77,DACS,1/9/2012 0:00,Santa Fe and Alameda,CCD Traffic Engineering
+78,DACS,1/9/2012 0:00,University and Alameda,CCD Traffic Engineering
+81,DACS,1/9/2012 0:00,9th and Auraria,CCD Traffic Engineering
+82,DACS,1/9/2012 0:00,Speer and Auraria,CCD Traffic Engineering
+83,DACS,1/9/2012 0:00,11th and Broadway,CCD Traffic Engineering
+86,DACS,1/9/2012 0:00,Broadway and Evans,CCD Traffic Engineering
+88,DACS,1/9/2012 0:00,Broadway and Kentucky,CCD Traffic Engineering
+90,DACS,1/9/2012 0:00,I-25 and Franklin/Buchtel,CCD Traffic Engineering
+91,DACS,1/9/2012 0:00,University and Buchtel,CCD Traffic Engineering
+92,DACS,1/9/2012 0:00,Colorado and Cherry Creek North,CCD Traffic Engineering
+94,DACS,1/9/2012 0:00,Colorado and Cherry Creek South,CCD Traffic Engineering
+95,DACS,1/9/2012 0:00,Colfax and Colorado,CCD Traffic Engineering
+96,DACS,1/9/2012 0:00,Colfax and Josephine,CCD Traffic Engineering
+97,DACS,1/9/2012 0:00,Colfax and Lincoln,CCD Traffic Engineering
+98,DACS,1/9/2012 0:00,Speer and Colfax,CCD Traffic Engineering
+99,DACS,1/9/2012 0:00,Colfax and York,CCD Traffic Engineering
+100,DACS,1/9/2012 0:00,"Colorado and 40th
+Colorado and 40th",CCD Traffic Engineering
+620,Traffic camera,12/9/2015 0:00,Chambers and 56th,CCD Traffic Engineering
+55,DACS,1/9/2012 0:00,Yale and I-25 W,CCD Traffic Engineering
+423,Traffic camera,12/8/2014 0:00,Colfax and Elliot,CCD Traffic Engineering
+429,Traffic camera,12/8/2014 0:00,University and Yale,CCD Traffic Engineering
+452,Traffic camera,12/8/2014 0:00,Alameda and Washington,CCD Traffic Engineering
+458,Traffic camera,12/8/2014 0:00,Alameda and Stuart,CCD Traffic Engineering
+459,Traffic camera,12/8/2014 0:00,Alameda and Zuni,CCD Traffic Engineering
+462,Traffic camera,12/8/2014 0:00,Monaco and MLK,CCD Traffic Engineering
+463,Traffic camera,12/8/2014 0:00,6th and Monaco,CCD Traffic Engineering
+465,Traffic camera,1/1/2012 0:00,I-25 and Yale W ,CCD Traffic Engineering
+487,Traffic camera,12/8/2014 0:00,47th and Peoria,CCD Traffic Engineering
+491,Traffic camera,12/8/2014 0:00,56th and Peoria,CCD Traffic Engineering
+494,Traffic camera,12/8/2014 0:00,MLK and York,CCD Traffic Engineering
+495,Traffic camera,12/8/2014 0:00,Sheridan and Quincy,CCD Traffic Engineering
+599,Traffic camera,1/1/2013 0:00,Sheridan and Kentucky,CCD Traffic Engineering
+511,Traffic camera,12/8/2014 0:00,Yosemite and Union,CCD Traffic Engineering
+521,Traffic camera,12/8/2014 0:00,Yosemite and Mansfield ,CCD Traffic Engineering
+529,Traffic camera,1/1/2013 0:00,GVR and Chambers,CCD Traffic Engineering
+533,Traffic camera,1/1/2013 0:00,40th and York,CCD Traffic Engineering
+561,Traffic camera,1/1/2014 0:00,Quebec and Quincy,CCD Traffic Engineering
+562,Traffic camera,1/1/2014 0:00,Univsersity and Louisiana,CCD Traffic Engineering
+101,DACS,1/9/2012 0:00,Colorado and Evans,CCD Traffic Engineering
+102,DACS,1/9/2012 0:00,Hampden and Colorado,CCD Traffic Engineering
+103,DACS,1/9/2012 0:00,I-25 N and Colorado,CCD Traffic Engineering
+105,DACS,1/9/2012 0:00,Speer and Elitch,CCD Traffic Engineering
+106,DACS,1/9/2012 0:00,Birch St and Cherry Creek S,CCD Traffic Engineering
+108,DACS,1/9/2012 0:00,Sheridan and 44th,CCD Traffic Engineering
+109,DACS,1/9/2012 0:00,6th and Speer,CCD Traffic Engineering
+110,DACS,1/9/2012 0:00,8th and Speer,CCD Traffic Engineering
+111,DACS,1/9/2012 0:00,13th and  Speer,CCD Traffic Engineering
+112,DACS,1/9/2012 0:00,Speer and Zuni,CCD Traffic Engineering
+113,DACS,1/9/2012 0:00,1st and University,CCD Traffic Engineering
+116,Traffic camera,1/9/2012 0:00,Broadway and Colfax,CCD Traffic Engineering
+117,Traffic camera,1/9/2012 0:00,7th/Osage and Colfax,CCD Traffic Engineering
+118,Traffic camera,1/9/2012 0:00,19th/Welton and Broadway,CCD Traffic Engineering
+119,Traffic camera,1/9/2012 0:00,Broadway and Evans,CCD Traffic Engineering
+120,Traffic camera,1/9/2012 0:00,Broadway and Blake,CCD Traffic Engineering
+121,Traffic camera,1/9/2012 0:00,Alameda and Broadway,CCD Traffic Engineering
+122,Traffic camera,1/9/2012 0:00,8th and Broadway,CCD Traffic Engineering
+123,Traffic camera,1/9/2012 0:00,Alameda and Sheridan,CCD Traffic Engineering
+124,Traffic camera,1/9/2012 0:00,56th and Tower,CCD Traffic Engineering
+125,Traffic camera,1/9/2012 0:00,56th and Pena,CCD Traffic Engineering
+126,Traffic camera,1/9/2012 0:00,48th (GVR) and Tower,CCD Traffic Engineering
+127,Traffic camera,1/9/2012 0:00,47th and Havana,CCD Traffic Engineering
+128,Traffic camera,1/9/2012 0:00,46th and Brighton,CCD Traffic Engineering
+129,Traffic camera,1/9/2012 0:00,22nd and Broadway/Curtis,CCD Traffic Engineering
+130,Traffic camera,1/9/2012 0:00,22nd and Blake,CCD Traffic Engineering
+131,Traffic camera,1/9/2012 0:00,20th and Welton,CCD Traffic Engineering
+132,Traffic camera,1/9/2012 0:00,20th and Market,CCD Traffic Engineering
+133,Traffic camera,1/9/2012 0:00,20th and Little Raven,CCD Traffic Engineering
+134,Traffic camera,1/9/2012 0:00,19th and Wynkoop,CCD Traffic Engineering
+135,Traffic camera,1/9/2012 0:00,19th and Champa,CCD Traffic Engineering
+136,Traffic camera,1/9/2012 0:00,19th and Blake,CCD Traffic Engineering
+137,Traffic camera,1/9/2012 0:00,18th and Market,CCD Traffic Engineering
+138,Traffic camera,1/9/2012 0:00,18th and Lincoln,CCD Traffic Engineering
+139,Traffic camera,1/9/2012 0:00,18th and California,CCD Traffic Engineering
+140,Traffic camera,1/9/2012 0:00,17th and Wazee,CCD Traffic Engineering
+141,Traffic camera,1/9/2012 0:00,17th and Grant,CCD Traffic Engineering
+142,Traffic camera,1/9/2012 0:00,17th and Lawrence,CCD Traffic Engineering
+143,Traffic camera,1/9/2012 0:00,17th and Broadway and Court ,CCD Traffic Engineering
+144,Traffic camera,1/9/2012 0:00,16th and Stout,CCD Traffic Engineering
+145,Traffic camera,1/9/2012 0:00,16th and Blake,CCD Traffic Engineering
+587,Traffic camera,12/8/2014 0:00,8th and Lincoln,CCD Traffic Engineering
+596,Traffic camera,12/8/2014 0:00,35th and Central Park Blvd,CCD Traffic Engineering
+621,Traffic camera,1/15/2016 0:00,Evans and Santa Fe,CCD Traffic Engineering
+622,Traffic camera,1/22/2016 0:00,Brighton and 29th,CCD Traffic Engineering
+623,Traffic camera,2/16/2016 0:00,Zuni and 29th,CCD Traffic Engineering
+624,Traffic camera,2/17/2016 0:00,Cherry Creek Drive North and Holly,CCD Traffic Engineering
+625,Traffic camera,2/22/2016 0:00,Marion/Walnut and 38th,CCD Traffic Engineering
+626,Traffic camera,2/22/2016 0:00,Morrison and Perry,CCD Traffic Engineering
+224,Traffic camera,1/9/2012 0:00,8th and Federal,CCD Traffic Engineering
+225,Traffic camera,1/9/2012 0:00,2nd and Federal,CCD Traffic Engineering
+226,Traffic camera,1/9/2012 0:00,Evans and University,CCD Traffic Engineering
+227,Traffic camera,1/9/2012 0:00,DTC and Union/Temple,CCD Traffic Engineering
+1,DACS,1/9/2012 0:00,York and 23rd,CCD Traffic Engineering
+2,DACS,1/9/2012 0:00,I-25 and 23rd SB O/R,CCD Traffic Engineering
+3,DACS,1/9/2012 0:00,Buchtel and High,CCD Traffic Engineering
+4,DACS,1/9/2012 0:00,Speer and 11th,CCD Traffic Engineering
+5,DACS,1/9/2012 0:00,47th and Dallas,CCD Traffic Engineering
+6,DACS,1/9/2012 0:00,I-25 and Hampden E,CCD Traffic Engineering
+7,DACS,1/9/2012 0:00,I-25 and Hampden W,CCD Traffic Engineering
+10,DACS,1/9/2012 0:00,Buchtel and Logan and Mississippi,CCD Traffic Engineering
+11,DACS,1/9/2012 0:00,Fulton and Fulton,CCD Traffic Engineering
+13,DACS,1/9/2012 0:00,Havana and MLK,CCD Traffic Engineering
+15,DACS,1/9/2012 0:00,Quebec and I-270,CCD Traffic Engineering
+16,DACS,1/9/2012 0:00,Quebec and I-70 N,CCD Traffic Engineering
+17,DACS,1/9/2012 0:00,Quebec and I-70 S,CCD Traffic Engineering
+18,DACS,1/9/2012 0:00,Quebec and Sand Creek,CCD Traffic Engineering
+19,DACS,1/9/2012 0:00,Sheridan and Colfax,CCD Traffic Engineering
+20,DACS,1/9/2012 0:00,I-25 and Speer,CCD Traffic Engineering
+21,DACS,1/9/2012 0:00,19th and Wynkoop,CCD Traffic Engineering
+23,DACS,1/9/2012 0:00,Quebec and Evand and Iliff,CCD Traffic Engineering
+24,DACS,1/9/2012 0:00,Valentia and 56th,CCD Traffic Engineering
+26,DACS,1/9/2012 0:00,Union and Corp Ctr Plaza,CCD Traffic Engineering
+27,DACS,1/9/2012 0:00,Ulster and Corporate/Carriage,CCD Traffic Engineering
+28,DACS,1/9/2012 0:00,Northfield and Uinta,CCD Traffic Engineering
+29,DACS,1/9/2012 0:00,Verbena and 49th,CCD Traffic Engineering
+30,DACS,1/9/2012 0:00,Colorado and Louisiana,CCD Traffic Engineering
+31,DACS,1/9/2012 0:00,Colorado and MLK,CCD Traffic Engineering
+32,DACS,1/9/2012 0:00,Colorado and Mexico,CCD Traffic Engineering
+34,DACS,1/9/2012 0:00,Elm and Montview,CCD Traffic Engineering
+35,DACS,1/9/2012 0:00,I-25 and Evans W,CCD Traffic Engineering
+36,DACS,1/9/2012 0:00,I-25 and Evans E,CCD Traffic Engineering
+37,DACS,1/9/2012 0:00,Monaco and Evans,CCD Traffic Engineering
+38,DACS,1/9/2012 0:00,University and Evans,CCD Traffic Engineering
+39,DACS,1/9/2012 0:00,Federal and 8th,CCD Traffic Engineering
+40,DACS,1/9/2012 0:00,Federal and 44th,CCD Traffic Engineering
+41,DACS,1/9/2012 0:00,Federal and Florida,CCD Traffic Engineering
+42,DACS,1/9/2012 0:00,I-70 and Federal N,CCD Traffic Engineering
+43,DACS,1/9/2012 0:00,I-70 and Federal S,CCD Traffic Engineering
+44,DACS,1/9/2012 0:00,Federal and Louisiana,CCD Traffic Engineering
+45,DACS,1/9/2012 0:00,Federal and Speer,CCD Traffic Engineering
+46,DACS,1/9/2012 0:00,Santa Fe and Florida,CCD Traffic Engineering
+271,Traffic camera,1/9/2012 0:00,Park Avenue West and Delgany/Wewatta,CCD Traffic Engineering
+272,Traffic camera,1/9/2012 0:00,19th and Lawrence,CCD Traffic Engineering
+273,Traffic camera,1/9/2012 0:00,19th and Stout,CCD Traffic Engineering
+274,Traffic camera,1/9/2012 0:00,17th and Champa,CCD Traffic Engineering
+275,Traffic camera,1/9/2012 0:00,16th and California,CCD Traffic Engineering
+276,Traffic camera,1/9/2012 0:00,18th and Broadway/Tremont,CCD Traffic Engineering
+277,Traffic camera,1/9/2012 0:00,17th and Logan,CCD Traffic Engineering
+278,Traffic camera,1/9/2012 0:00,Colfax and Pearl,CCD Traffic Engineering
+279,Traffic camera,1/9/2012 0:00,48th and Vasquez,CCD Traffic Engineering
+280,Traffic camera,1/9/2012 0:00,13th and Josephine,CCD Traffic Engineering
+281,Traffic camera,1/9/2012 0:00,14th and Market,CCD Traffic Engineering
+282,Traffic camera,1/9/2012 0:00,13th and Zuni,CCD Traffic Engineering
+283,Traffic camera,1/9/2012 0:00,I-70 and Washington N I/S,CCD Traffic Engineering
+285,Traffic camera,1/9/2012 0:00,"Colorado and Alameda
+Colorado / Alameda",CCD Traffic Engineering
+286,Traffic camera,1/9/2012 0:00,Colorado and 23rd,CCD Traffic Engineering
+287,Traffic camera,1/9/2012 0:00,"Colorado and 17th
+Colorado and 17th",CCD Traffic Engineering
+288,Traffic camera,1/9/2012 0:00,Colfax and Yosemite ,CCD Traffic Engineering
+289,Traffic camera,1/9/2012 0:00,Colfax and York,CCD Traffic Engineering
+290,Traffic camera,1/9/2012 0:00,Colfax and Sheridan,CCD Traffic Engineering
+291,Traffic camera,1/9/2012 0:00,Colfax and Perry,CCD Traffic Engineering
+292,Traffic camera,1/9/2012 0:00,Colfax and Park Ave/Franklin,CCD Traffic Engineering
+293,Traffic camera,1/9/2012 0:00,Colfax and Monaco,CCD Traffic Engineering
+294,Traffic camera,1/9/2012 0:00,Colfax and Mile High Stadium,CCD Traffic Engineering
+295,Traffic camera,1/9/2012 0:00,Colfax and Lincoln,CCD Traffic Engineering
+296,Traffic camera,1/9/2012 0:00,Colfax and Irving,CCD Traffic Engineering
+297,Traffic camera,1/9/2012 0:00,Colfax and Colorado,CCD Traffic Engineering
+298,Traffic camera,1/9/2012 0:00,Colfax and Clarkson,CCD Traffic Engineering
+299,Traffic camera,1/9/2012 0:00,Colfax and Cherokee/Court,CCD Traffic Engineering
+300,Traffic camera,1/9/2012 0:00,Broadway and Ohio,CCD Traffic Engineering
+301,Traffic camera,1/9/2012 0:00,Alameda and Federal,CCD Traffic Engineering
+302,Traffic camera,1/9/2012 0:00,38th and Brighton,CCD Traffic Engineering
+303,Traffic camera,1/9/2012 0:00,20th and Blake,CCD Traffic Engineering
+304,Traffic camera,1/9/2012 0:00,18th and Curtis,CCD Traffic Engineering
+305,Traffic camera,1/9/2012 0:00,16th and Tremont,CCD Traffic Engineering
+306,Traffic camera,1/9/2012 0:00,14th and Delaware,CCD Traffic Engineering
+307,Traffic camera,1/9/2012 0:00,14th and Glenarm,CCD Traffic Engineering
+308,Traffic camera,1/9/2012 0:00,11th and Broadway,CCD Traffic Engineering
+309,Traffic camera,1/9/2012 0:00,6th and Kalamath,CCD Traffic Engineering
+311,Traffic camera,1/9/2012 0:00,Park Ave West and Globeville,CCD Traffic Engineering
+312,Traffic camera,1/9/2012 0:00,I-70 and Colorado Blvd,CCD Traffic Engineering
+48,DACS,1/9/2012 0:00,Hampden and Monaco,CCD Traffic Engineering
+49,DACS,1/9/2012 0:00,Hampden and Tamarac,CCD Traffic Engineering
+50,DACS,1/9/2012 0:00,Hampden and Yosemite,CCD Traffic Engineering
+228,Traffic camera,1/9/2012 0:00,Colorado and MLK,CCD Traffic Engineering
+229,Traffic camera,1/9/2012 0:00,Colorado and Louisiana,CCD Traffic Engineering
+230,Traffic camera,1/9/2012 0:00,Colorado and Evans,CCD Traffic Engineering
+231,Traffic camera,1/9/2012 0:00,Colorado and Cherry Creek South,CCD Traffic Engineering
+232,Traffic camera,1/9/2012 0:00,Colfax and Speer ,CCD Traffic Engineering
+234,Traffic camera,1/9/2012 0:00,Alameda and University,CCD Traffic Engineering
+235,Traffic camera,1/9/2012 0:00,38th and Fox/Park Avenue West,CCD Traffic Engineering
+236,Traffic camera,1/9/2012 0:00,20th and Broadway/California,CCD Traffic Engineering
+237,Traffic camera,1/9/2012 0:00,20th and Arapahoe,CCD Traffic Engineering
+238,Traffic camera,1/9/2012 0:00,Alameda and Knox/Morrison,CCD Traffic Engineering
+239,Traffic camera,1/9/2012 0:00,13th and Santa Fe,CCD Traffic Engineering
+240,Traffic camera,1/9/2012 0:00,Broadway and Iowa,CCD Traffic Engineering
+241,Traffic camera,1/9/2012 0:00,1st and Lincoln,CCD Traffic Engineering
+242,Traffic camera,1/9/2012 0:00,Broadway and 3rd,CCD Traffic Engineering
+243,Traffic camera,1/9/2012 0:00,Alameda and Lincoln,CCD Traffic Engineering
+244,Traffic camera,1/9/2012 0:00,11th and Kalamath,CCD Traffic Engineering
+245,Traffic camera,1/9/2012 0:00,Colorado and 12th,CCD Traffic Engineering
+246,Traffic camera,1/9/2012 0:00,I-25 and Evans East I/S,CCD Traffic Engineering
+247,Traffic camera,1/9/2012 0:00,Colorado and Mexico,CCD Traffic Engineering
+248,Traffic camera,1/9/2012 0:00,Colorado and Mississippi,CCD Traffic Engineering
+249,Traffic camera,1/9/2012 0:00,Colorado and Dartmouth,CCD Traffic Engineering
+250,Traffic camera,1/9/2012 0:00,Federal and Yale,CCD Traffic Engineering
+251,Traffic camera,1/9/2012 0:00,Broadway and Kentucky,CCD Traffic Engineering
+252,Traffic camera,1/9/2012 0:00,Sheridan and 26th,CCD Traffic Engineering
+253,Traffic camera,1/9/2012 0:00,Colorado and 8th,CCD Traffic Engineering
+254,Traffic camera,1/9/2012 0:00,56th and Havana,CCD Traffic Engineering
+257,Traffic camera,1/9/2012 0:00,15th and Little Raven,CCD Traffic Engineering
+258,Traffic camera,1/9/2012 0:00,Park and Downing,CCD Traffic Engineering
+259,Traffic camera,1/9/2012 0:00,22nd and Larimer,CCD Traffic Engineering
+260,Traffic camera,1/9/2012 0:00,Speer and Chopper and Wewatta,CCD Traffic Engineering
+261,Traffic camera,1/9/2012 0:00,Quebec and Smith Rd,CCD Traffic Engineering
+262,Traffic camera,1/9/2012 0:00,Quebec and Montview,CCD Traffic Engineering
+263,Traffic camera,1/9/2012 0:00,48th (GVR) and Pena W I/S ,CCD Traffic Engineering
+264,Traffic camera,1/9/2012 0:00,Quebec and Evans/Iliff,CCD Traffic Engineering
+265,Traffic camera,1/9/2012 0:00,Quebec and 26th,CCD Traffic Engineering
+266,Traffic camera,1/9/2012 0:00,Alameda and Monaco,CCD Traffic Engineering
+267,Traffic camera,1/9/2012 0:00,Evans and High,CCD Traffic Engineering
+268,Traffic camera,1/9/2012 0:00,15th and Cleveland,CCD Traffic Engineering
+269,Traffic camera,1/9/2012 0:00,Lincoln and Walsh,CCD Traffic Engineering
+270,Traffic camera,1/9/2012 0:00,20th and Chestnut,CCD Traffic Engineering
+183,Traffic camera,1/9/2012 0:00,I-70 and Monaco (Stapleton Dr S),CCD Traffic Engineering
+184,Traffic camera,1/9/2012 0:00,I-70 and Quebec St,CCD Traffic Engineering
+185,Traffic camera,1/9/2012 0:00,I-70 and Sheridan Blvd,CCD Traffic Engineering
+186,Traffic camera,1/9/2012 0:00,I-70 and Steele,CCD Traffic Engineering
+187,Traffic camera,1/9/2012 0:00,I-70 and Washington S I/S,CCD Traffic Engineering
+188,Traffic camera,1/9/2012 0:00,Webb Office Bldg Roof,CCD Traffic Engineering
+189,Traffic camera,1/9/2012 0:00,Ulster and Union,CCD Traffic Engineering
+190,Traffic camera,1/9/2012 0:00,Speer and Zuni,CCD Traffic Engineering
+191,Traffic camera,1/9/2012 0:00,Lawrence and Speer,CCD Traffic Engineering
+192,Traffic camera,1/9/2012 0:00,Larimer and Speer,CCD Traffic Engineering
+193,Traffic camera,1/9/2012 0:00,Federal and Speer,CCD Traffic Engineering
+194,Traffic camera,1/9/2012 0:00,Elitch Cir and Speer,CCD Traffic Engineering
+195,Traffic camera,1/9/2012 0:00,Champa and Speer,CCD Traffic Engineering
+196,Traffic camera,1/9/2012 0:00,Auraria and Speer,CCD Traffic Engineering
+197,Traffic camera,1/9/2012 0:00,8th and Speer,CCD Traffic Engineering
+198,Traffic camera,1/9/2012 0:00,6th and Speer,CCD Traffic Engineering
+199,Traffic camera,1/9/2012 0:00,13th and Speer,CCD Traffic Engineering
+200,Traffic camera,1/9/2012 0:00,Mississippi/Morrison and Sheridan,CCD Traffic Engineering
+201,Traffic camera,1/9/2012 0:00,Jewell and Sheridan,CCD Traffic Engineering
+202,Traffic camera,1/9/2012 0:00,Hampden and Sheridan,CCD Traffic Engineering
+203,Traffic camera,1/9/2012 0:00,Sheridan and 38th,CCD Traffic Engineering
+204,Traffic camera,1/9/2012 0:00,Mississippi and Santa Fe,CCD Traffic Engineering
+205,Traffic camera,1/9/2012 0:00,Quebec and MLK,CCD Traffic Engineering
+206,Traffic camera,1/9/2012 0:00,Alameda and Quebec,CCD Traffic Engineering
+207,Traffic camera,1/9/2012 0:00,56th and Quebec,CCD Traffic Engineering
+208,Traffic camera,1/9/2012 0:00,Pena and Tower Rd N I/S,CCD Traffic Engineering
+209,Traffic camera,1/9/2012 0:00,Park Avenue West and Wazee,CCD Traffic Engineering
+210,Traffic camera,1/9/2012 0:00,Market and Park Avenue West,CCD Traffic Engineering
+211,Traffic camera,1/9/2012 0:00,Mississippi and Parker,CCD Traffic Engineering
+212,Traffic camera,1/9/2012 0:00,Leetsdale and Monaco,CCD Traffic Engineering
+213,Traffic camera,1/9/2012 0:00,Hampden and Yosemite,CCD Traffic Engineering
+214,Traffic camera,1/9/2012 0:00,Hampden and Tamarac,CCD Traffic Engineering
+215,Traffic camera,1/9/2012 0:00,Hampden and Monaco,CCD Traffic Engineering
+216,Traffic camera,1/9/2012 0:00,Colorado and Hamden,CCD Traffic Engineering
+217,Traffic camera,1/9/2012 0:00,Federal and Holden,CCD Traffic Engineering
+218,Traffic camera,1/9/2012 0:00,Federal and Florida,CCD Traffic Engineering
+219,Traffic camera,1/9/2012 0:00,Federal and Exposition,CCD Traffic Engineering
+220,Traffic camera,1/9/2012 0:00,Evans and Federal,CCD Traffic Engineering
+221,Traffic camera,1/9/2012 0:00,44th and Federal,CCD Traffic Engineering
+222,Traffic camera,1/9/2012 0:00,38th and Federal,CCD Traffic Engineering
+223,Traffic camera,1/9/2012 0:00,20th and Federal,CCD Traffic Engineering
+315,Traffic camera,1/9/2012 0:00,Downing and Speer,CCD Traffic Engineering
+359,AUTOSCOPE,1/9/2012 0:00,I-25 and Hampden,CCD Traffic Engineering
+360,AUTOSCOPE,1/9/2012 0:00,I-25 and Hampden,CCD Traffic Engineering
+361,AUTOSCOPE,1/9/2012 0:00,Hampden and Monaco,CCD Traffic Engineering
+362,AUTOSCOPE,1/9/2012 0:00,20th and Lipan,CCD Traffic Engineering
+363,AUTOSCOPE,1/9/2012 0:00,Washington and I-70,CCD Traffic Engineering
+364,AUTOSCOPE,1/9/2012 0:00,Sheridan and Jewell,CCD Traffic Engineering
+365,AUTOSCOPE,1/9/2012 0:00,Leetsdale and Quebec,CCD Traffic Engineering
+366,AUTOSCOPE,1/9/2012 0:00,20th and Market,CCD Traffic Engineering
+367,AUTOSCOPE,1/9/2012 0:00,Mississippi and Morrison and Sheridan,CCD Traffic Engineering
+368,AUTOSCOPE,1/9/2012 0:00,Quebec and I-70,CCD Traffic Engineering
+370,AUTOSCOPE,1/9/2012 0:00,York and 23rd,CCD Traffic Engineering
+371,AUTOSCOPE,1/9/2012 0:00,20th and Chestnut,CCD Traffic Engineering
+372,AUTOSCOPE,1/9/2012 0:00,Quebec and Sand Creek,CCD Traffic Engineering
+373,AUTOSCOPE,1/9/2012 0:00,Speer and Elitch Cir,CCD Traffic Engineering
+374,AUTOSCOPE,1/9/2012 0:00,56th and Tower,CCD Traffic Engineering
+375,AUTOSCOPE,1/9/2012 0:00,Park Avenue West and Delgany and Wewatta,CCD Traffic Engineering
+377,AUTOSCOPE,1/9/2012 0:00,40th and Chambers,CCD Traffic Engineering
+378,AUTOSCOPE,1/9/2012 0:00,Colfax and Eliot,CCD Traffic Engineering
+380,AUTOSCOPE,1/9/2012 0:00,Speer and Chopper and Wewatta,CCD Traffic Engineering
+381,AUTOSCOPE,1/9/2012 0:00,Quebec and I-70,CCD Traffic Engineering
+382,AUTOSCOPE,1/9/2012 0:00,7th and Auraria (B side),CCD Traffic Engineering
+383,AUTOSCOPE,1/9/2012 0:00,Colorado and Evans,CCD Traffic Engineering
+386,Traffic camera,12/8/2014 0:00,Evans and Holly,CCD Traffic Engineering
+387,Forest City PTZ,12/8/2014 0:00,56th and Valentia,FOREST CITY
+388,Traffic camera,12/8/2014 0:00,University and Buchtel,CCD Traffic Engineering
+389,Traffic camera,12/8/2014 0:00,18th and York,Proposed
+390,Traffic camera,12/8/2014 0:00,Leetsdale and Holly,CCD Traffic Engineering
+391,Traffic camera,12/8/2014 0:00,38th and Arkins Ct,CCD Traffic Engineering
+392,Traffic camera,12/8/2014 0:00,Colfax and Delaware,CCD Traffic Engineering
+393,Traffic camera,12/8/2014 0:00,41st and Federal,CCD Traffic Engineering
+394,Traffic camera,12/8/2014 0:00,Broadway and Walnut,CCD Traffic Engineering
+396,Traffic camera,12/8/2014 0:00,Speer and Stout,CCD Traffic Engineering
+397,Traffic camera,12/8/2014 0:00,48th (GVR) and Telluride,CCD Traffic Engineering
+398,Traffic camera,12/8/2014 0:00,Havana and Dartmouth,CCD Traffic Engineering
+399,Traffic camera,12/8/2014 0:00,53rd and Quebec,CCD Traffic Engineering
+629,TRAFFICCAM,4/21/2016 0:00,Water and 7th / 8th,PWTES
+630,TRAFFICCAM,4/22/2016 0:00,Knox and 1st,PWTES
+428,Traffic camera,12/8/2014 0:00,Colfax and High,CCD Traffic Engineering
+430,Signal Reconstruction (MIL) PTZ,12/8/2014 0:00,Steele and MLK,Signal Reconstruction
+431,Signal Reconstruction (MIL) PTZ,12/8/2014 0:00,39th and Peoria,Signal Reconstruction
+433,Traffic camera,12/8/2014 0:00,Yosemite and Montiew and Central Park Blvd,CCD Traffic Engineering
+434,Traffic camera,12/8/2014 0:00,3rd and Santa Fe,CCD Traffic Engineering
+435,Traffic camera,12/8/2014 0:00,27th and Welton,CCD Traffic Engineering
+436,Traffic camera,12/8/2014 0:00,Alameda and Holly,CCD Traffic Engineering
+437,Traffic camera,12/8/2014 0:00,I-70 and Central Park S,CCD Traffic Engineering
+438,Traffic camera,12/8/2014 0:00,I-70 and Central Park N,CCD Traffic Engineering
+439,Traffic camera,12/8/2014 0:00,29th and Central Park,CCD Traffic Engineering
+440,Traffic camera,12/8/2014 0:00,Colorado and 14th,CCD Traffic Engineering
+441,Traffic camera,12/8/2014 0:00,Colfax and Meade,CCD Traffic Engineering
+442,Traffic camera,12/8/2014 0:00,Colorado and 13th,CCD Traffic Engineering
+443,Traffic camera,12/8/2014 0:00,Broadway and Champa,CCD Traffic Engineering
+444,Traffic camera,12/8/2014 0:00,Quebec and Yale ,CCD Traffic Engineering
+445,Signal Reconstruction (MIL) PTZ,12/8/2014 0:00,Yale and Monaco,Signal Reconstruction
+446,HALO PTZ,12/8/2014 0:00,Colfax and Hudson,HALO
+447,Traffic camera,12/8/2014 0:00,Monaco and Evans,CCD Traffic Engineering
+448,Traffic camera,12/8/2014 0:00,Monaco and Kentucky,CCD Traffic Engineering
+449,Traffic camera,12/8/2014 0:00,GVR and Himalaya,CCD Traffic Engineering
+450,Traffic camera,12/8/2014 0:00,Logan and Louisiana,CCD Traffic Engineering
+451,Traffic camera,12/8/2014 0:00,Sheridan and 10th,CCD Traffic Engineering
+453,Traffic camera,12/8/2014 0:00,Alameda and Cherokee,CCD Traffic Engineering
+454,Traffic camera,12/8/2014 0:00,Alameda and Logan,CCD Traffic Engineering
+400,Signal Reconstruction (MIL) PTZ,12/8/2014 0:00,17th and Josephine,Signal Reconstruction
+401,Signal Reconstruction (MIL) PTZ,12/8/2014 0:00,17th and York,Signal Reconstruction
+402,Traffic camera,12/8/2014 0:00,23rd and York,CCD Traffic Engineering
+403,Traffic camera,12/8/2014 0:00,Hampden and Dahlia,CCD Traffic Engineering
+404,Signal Reconstruction (MIL) PTZ,12/8/2014 0:00,York and Botanical,Signal Reconstruction
+405,Traffic camera,12/8/2014 0:00,23rd and Zoo,CCD Traffic Engineering
+406,Traffic camera,12/8/2014 0:00,Monaco and Exposition,CCD Traffic Engineering
+407,Signal Reconstruction (MIL) PTZ,12/8/2014 0:00,1st and Monaco,Signal Reconstruction
+408,Traffic camera,12/8/2014 0:00,15th and Wazee,CCD Traffic Engineering
+409,Signal Reconstruction (MIL) PTZ,12/8/2014 0:00,Alameda and Tejon,Signal Reconstruction
+410,Traffic camera,12/8/2014 0:00,Downing and Louisiana,CCD Traffic Engineering
+411,Traffic camera,12/8/2014 0:00,Northfield and Uinta,CCD Traffic Engineering
+412,Signal Reconstruction (MIL) PTZ,12/8/2014 0:00,38th and Irving,Signal Reconstruction
+413,Signal Reconstruction (MIL) PTZ,12/8/2014 0:00,38th and Perry,Signal Reconstruction
+414,Signal Reconstruction (MIL) PTZ,12/8/2014 0:00,38th and Zuni,Signal Reconstruction
+415,HALO PTZ,12/8/2014 0:00,16th and Champa,HALO
+416,Signal Reconstruction (MIL) PTZ,12/8/2014 0:00,18th and Franklin,Signal Reconstruction
+417,Proposed PTZ,12/8/2014 0:00,Federal and Dartmouth,Proposed
+418,Traffic camera,12/8/2014 0:00,17th and Chestnut,CCD Traffic Engineering
+419,Traffic camera,12/8/2014 0:00,Colorado and Montview,CCD Traffic Engineering
+420,Signal Reconstruction (MIL) PTZ,12/8/2014 0:00,8500 E Lowry,Signal Reconstruction
+421,Traffic camera,12/8/2014 0:00,Sheridan and Yale ,CCD Traffic Engineering
+422,Traffic camera,12/8/2014 0:00,15th and Wewatta,CCD Traffic Engineering
+424,Signal Reconstruction (MIL) PTZ,12/8/2014 0:00,Park Avenue West and Tremont ,Signal Reconstruction
+425,Signal Reconstruction (MIL) PTZ,12/8/2014 0:00,Park and 18th/Ogden,Signal Reconstruction
+426,Signal Reconstruction (MIL) PTZ,12/8/2014 0:00,17th and Steele,Signal Reconstruction
+427,HALO PTZ,12/8/2014 0:00,Colfax and Downing,HALO
+313,Traffic camera,1/9/2012 0:00,I-70 and Peoria S,CCD Traffic Engineering
+314,Traffic camera,1/9/2012 0:00,Ulster and Tufts,CCD Traffic Engineering
+316,Traffic camera,1/9/2012 0:00,Speer and 11th,CCD Traffic Engineering
+317,Traffic camera,1/9/2012 0:00,Leetsdale and Quebec,CCD Traffic Engineering
+318,Traffic camera,1/9/2012 0:00,Park Avenue West and Washington/20th,CCD Traffic Engineering
+319,Traffic camera,1/9/2012 0:00,Federal and Dick Connor/17th,CCD Traffic Engineering
+320,Traffic camera,1/9/2012 0:00,26th and Federal,CCD Traffic Engineering
+321,Traffic camera,1/9/2012 0:00,DTC and Tufts,CCD Traffic Engineering
+322,Traffic camera,1/9/2012 0:00,Colfax and Kalamath,CCD Traffic Engineering
+323,Traffic camera,1/9/2012 0:00,17th and Welton,CCD Traffic Engineering
+324,Traffic camera,1/9/2012 0:00,20th and Lincoln,CCD Traffic Engineering
+325,Traffic camera,1/9/2012 0:00,"6th and Colorado
+Colorado and 6th",CCD Traffic Engineering
+326,Traffic camera,1/9/2012 0:00,Colorado and Yale N I/S,CCD Traffic Engineering
+327,Traffic camera,1/9/2012 0:00,32nd and Sheridan,CCD Traffic Engineering
+328,Traffic camera,1/9/2012 0:00,35th and Federal,CCD Traffic Engineering
+329,Traffic camera,1/9/2012 0:00,University and Exposition/Bonnie Brae,CCD Traffic Engineering
+330,Traffic camera,1/9/2012 0:00,Lower Colfax and Platte River W (BN Railroad Crossing),CCD Traffic Engineering
+331,Traffic camera,1/9/2012 0:00,19th and Logan,CCD Traffic Engineering
+332,Traffic camera,1/9/2012 0:00,16th and Arapahoe,CCD Traffic Engineering
+333,Traffic camera,1/9/2012 0:00,40th and Colorado,CCD Traffic Engineering
+334,Traffic camera,1/9/2012 0:00,Colfax and Quebec ,CCD Traffic Engineering
+335,Traffic camera,1/9/2012 0:00,Colfax and Grant,CCD Traffic Engineering
+336,AUTOSCOPE,1/9/2012 0:00,Chambers and Gateway Ave/GVR (48th),CCD Traffic Engineering
+337,AUTOSCOPE,1/9/2012 0:00,Leetsdale and Alameda,CCD Traffic Engineering
+338,AUTOSCOPE,1/9/2012 0:00,Colorado / Alameda,CCD Traffic Engineering
+339,AUTOSCOPE,1/9/2012 0:00,Alameda and Federal,CCD Traffic Engineering
+340,AUTOSCOPE,1/9/2012 0:00,7th and Auraria (A side),CCD Traffic Engineering
+341,AUTOSCOPE,1/9/2012 0:00,9th and Auraria,CCD Traffic Engineering
+342,AUTOSCOPE,1/9/2012 0:00,20th and Blake,CCD Traffic Engineering
+343,AUTOSCOPE,1/9/2012 0:00,Broadway and Kentucky,CCD Traffic Engineering
+344,AUTOSCOPE,1/9/2012 0:00,I-25 and Franklin/Buchtel,CCD Traffic Engineering
+346,AUTOSCOPE,1/9/2012 0:00,Colfax and I-25,CCD Traffic Engineering
+347,AUTOSCOPE,1/9/2012 0:00,Quebec and Colfax,CCD Traffic Engineering
+348,AUTOSCOPE,1/9/2012 0:00,Colfax and Sheridan,CCD Traffic Engineering
+349,AUTOSCOPE,1/9/2012 0:00,Colorado and 9th,CCD Traffic Engineering
+350,AUTOSCOPE,1/9/2012 0:00,Colorado and 23rd,CCD Traffic Engineering
+351,AUTOSCOPE,1/9/2012 0:00,Colorado and Evans,CCD Traffic Engineering
+352,AUTOSCOPE,1/9/2012 0:00,Hampden and Colorado,CCD Traffic Engineering
+353,AUTOSCOPE,1/9/2012 0:00,I-25 and Evans,CCD Traffic Engineering
+354,AUTOSCOPE,1/9/2012 0:00,Federal and 8th,CCD Traffic Engineering
+355,AUTOSCOPE,1/9/2012 0:00,Federal and Florida,CCD Traffic Engineering
+356,AUTOSCOPE,1/9/2012 0:00,I-70 and Federal,CCD Traffic Engineering
+357,AUTOSCOPE,1/9/2012 0:00,I-70 and Federal,CCD Traffic Engineering
+358,AUTOSCOPE,1/9/2012 0:00,Federal and Louisiana,CCD Traffic Engineering
+522,Traffic camera,1/1/2013 0:00,Yosemite and Jefferson,CCD Traffic Engineering
+523,Traffic camera,1/1/2013 0:00,Federal and Jewell,CCD Traffic Engineering
+524,Traffic camera,1/1/2013 0:00,Yale and Lowell,CCD Traffic Engineering
+525,Traffic camera,1/1/2013 0:00,Sheridan and Dartmouth,CCD Traffic Engineering
+526,Traffic camera,1/1/2013 0:00,40th and Clayton,CCD Traffic Engineering
+527,Traffic camera,1/1/2013 0:00,38th and Pecos,CCD Traffic Engineering
+528,Traffic camera,1/1/2013 0:00,Havana and MLK,CCD Traffic Engineering
+530,Traffic camera,1/1/2013 0:00,40th and Chambers,CCD Traffic Engineering
+530,Traffic camera,1/1/2013 0:00,Sheridan and 25th ,CCD Traffic Engineering
+532,Traffic camera,1/1/2013 0:00,Jewell and Lowell ,CCD Traffic Engineering
+534,OTHER,1/1/2013 0:00,Colfax and Krameria,CCD Traffic Engineering
+535,Traffic camera,1/1/2013 0:00,14th and Krameria,CCD Traffic Engineering
+536,Traffic camera,1/1/2013 0:00,Colfax and Elm,CCD Traffic Engineering
+537,Traffic camera,1/1/2013 0:00,Holly and Smith Rd,CCD Traffic Engineering
+538,Traffic camera,1/1/2013 0:00,Hampden and Florence,CCD Traffic Engineering
+539,Traffic camera,1/1/2013 0:00,Yale and Raleigh,CCD Traffic Engineering
+540,Traffic camera,1/1/2013 0:00,Yale and Knox,CCD Traffic Engineering
+541,Traffic camera,1/1/2013 0:00,Jewell and Irving ,CCD Traffic Engineering
+542,Traffic camera,1/1/2013 0:00,Jewell and Tennyson ,CCD Traffic Engineering
+543,Traffic camera,12/8/2014 0:00,I-225 and Tamarac N,CCD Traffic Engineering
+544,Traffic camera,12/8/2014 0:00,I-225 and Tamarac S,CCD Traffic Engineering
+545,Traffic camera,1/1/2013 0:00,Colfax and Williams,CCD Traffic Engineering
+546,Traffic camera,1/1/2013 0:00,Monaco and Smith,CCD Traffic Engineering
+547,OTHER,1/1/2013 0:00,Federal and 6th N,CCD Traffic Engineering
+548,Traffic camera,12/8/2014 0:00,Sheridan and 17th ,CCD Traffic Engineering
+549,Traffic camera,12/8/2014 0:00,Evans and Tennyson,CCD Traffic Engineering
+550,Traffic camera,1/1/2014 0:00,Federal and 6th S,CCD Traffic Engineering
+455,Traffic camera,12/8/2014 0:00,Colfax and 9th,CCD Traffic Engineering
+456,Traffic camera,12/8/2014 0:00,Mississippi and South Platte River Dr,CCD Traffic Engineering
+457,Traffic camera,12/8/2014 0:00,University and Dartmouth,CCD Traffic Engineering
+460,Traffic camera,12/8/2014 0:00,Alameda and Perry,CCD Traffic Engineering
+461,Traffic camera,1/1/2012 0:00,Monaco and Cherry Creek,CCD Traffic Engineering
+464,Traffic camera,1/1/2012 0:00,48th (GVR) and Pena E I/S,CCD Traffic Engineering
+467,Traffic camera,1/1/2012 0:00,36th and CPB,CCD Traffic Engineering
+467,Traffic camera,12/8/2014 0:00,I-25 and Yale E ,CCD Traffic Engineering
+468,Traffic camera,12/8/2014 0:00,I-25 and Hampden E,CCD Traffic Engineering
+469,Traffic camera,1/1/2012 0:00,56th and Dallas,CCD Traffic Engineering
+470,Traffic camera,1/1/2012 0:00,I-25 and Wash/Buch/Ariz ,CCD Traffic Engineering
+471,Traffic camera,1/1/2012 0:00,I-25 and Colorado N,RITZ
+472,Traffic camera,1/1/2012 0:00,I-25 and Emerson and Buchtel and Louisiana,CCD Traffic Engineering
+473,Traffic camera,1/1/2012 0:00,I-25 and Logan/Mississippi/Buchtel,CCD Traffic Engineering
+474,Traffic camera,1/1/2012 0:00,I-25 and 20th St,CCD Traffic Engineering
+475,Traffic camera,1/1/2012 0:00,I-25 and Downing and Buchtel,CCD Traffic Engineering
+476,Traffic camera,1/1/2012 0:00,I-25 and High/Buchtel ,CCD Traffic Engineering
+477,Traffic camera,1/1/2012 0:00,I-25 and Franklin/Buchtel,CCD Traffic Engineering
+478,Traffic camera,1/1/2012 0:00,I-25 and 23rd,CCD Traffic Engineering
+479,Traffic camera,1/1/2012 0:00,17th and Park Avenue West,CCD Traffic Engineering
+480,Traffic camera,1/1/2012 0:00,I-25 and 6th Ave,CCD Traffic Engineering
+481,Traffic camera,1/1/2012 0:00,Spear Bridge and Platte,CCD Traffic Engineering
+482,Traffic camera,1/1/2012 0:00,I-25 and Alameda W,CCD Traffic Engineering
+483,Traffic camera,1/1/2012 0:00,Yale and Holly ,CCD Traffic Engineering
+484,Traffic camera,1/1/2013 0:00,Speer and Washington,CCD Traffic Engineering
+485,Traffic camera,1/1/2013 0:00,26th and Lowell,CCD Traffic Engineering
+486,Traffic camera,1/1/2013 0:00,Federal and Howard,CCD Traffic Engineering
+488,Traffic camera,1/1/2013 0:00,6th and York,CCD Traffic Engineering
+489,Traffic camera,1/1/2013 0:00,Quebec and Cherry Creek South,CCD Traffic Engineering
+490,Traffic camera,1/1/2013 0:00,53rd and Chambers,CCD Traffic Engineering
+492,RITZ PTZ,12/8/2014 0:00,6th and Sheridan N,RITZ
+493,Signal Reconstruction (MIL) PTZ,12/8/2014 0:00,University and 4th,Signal Reconstruction
+496,Traffic camera,1/1/2013 0:00,Sheridan and Florida,CCD Traffic Engineering
+497,Traffic camera,1/1/2013 0:00,Sheridan and 1st,CCD Traffic Engineering
+498,Traffic camera,1/1/2013 0:00,Sheridan and 44th,CCD Traffic Engineering
+500,Traffic camera,1/1/2012 0:00,CPB and MLK,CCD Traffic Engineering
+501,Signal Reconstruction (MIL) PTZ,12/8/2014 0:00,Colorado and 9th,Signal Reconstruction
+502,Traffic camera,1/1/2013 0:00,Colfax and Bannock,CCD Traffic Engineering
+503,Traffic camera,1/1/2013 0:00,I-70 and Pecos ,CCD Traffic Engineering
+504,Traffic camera,1/1/2013 0:00,14th and California,CCD Traffic Engineering
+505,Traffic camera,1/1/2013 0:00,17th and Stout,CCD Traffic Engineering
+506,Traffic camera,1/1/2013 0:00,17th and California,CCD Traffic Engineering
+507,Traffic camera,1/1/2013 0:00,19th and California,CCD Traffic Engineering
+508,Traffic camera,1/1/2013 0:00,15th and California,CCD Traffic Engineering
+509,Traffic camera,1/1/2013 0:00,I-225 and Yosemite N,CCD Traffic Engineering
+510,Traffic camera,1/1/2013 0:00,I-225 and Yosemite S,CCD Traffic Engineering
+512,Traffic camera,12/8/2014 0:00,Yosemite and Campus Dr ,CCD Traffic Engineering
+513,Traffic camera,12/8/2014 0:00,Yosemite and Chenango,CCD Traffic Engineering
+514,Traffic camera,12/8/2014 0:00,Federal and 29th,CCD Traffic Engineering
+516,Traffic camera,1/1/2013 0:00,Speer and 29th,CCD Traffic Engineering
+517,Traffic camera,1/1/2013 0:00,11th and Syracuse,CCD Traffic Engineering
+518,Traffic camera,1/1/2013 0:00,11th and Uinta,CCD Traffic Engineering
+519,Traffic camera,1/1/2013 0:00,Quebec and 11th,CCD Traffic Engineering
+520,Traffic camera,12/8/2014 0:00,Alameda and Fairmount,CCD Traffic Engineering
+581,Traffic camera,1/1/2014 0:00,Leetsdale and Oneida,CCD Traffic Engineering
+582,Traffic camera,1/1/2014 0:00,37th and Peoria (Peoria Rail Bridge),CCD Traffic Engineering
+583,Traffic camera,1/1/2014 0:00,7th and Logan,CCD Traffic Engineering
+584,Traffic camera,1/1/2014 0:00,I-25 and University N ,CCD Traffic Engineering
+585,Traffic camera,1/1/2014 0:00,15th and Delgany,CCD Traffic Engineering
+586,RITZ PTZ,12/8/2014 0:00,1st and Colorado,RITZ
+588,Traffic camera,12/8/2014 0:00,15th and Platte,CCD Traffic Engineering
+589,Traffic camera,12/8/2014 0:00,I-25 and Speer ,CCD Traffic Engineering
+590,Proposed PTZ,12/8/2014 0:00,Colfax and Josephine,Proposed
+591,Traffic camera,12/8/2014 0:00,Downing and Alameda,CCD Traffic Engineering
+638,TRAFFICCAM,7/6/2016 0:00,Colfax and Cherry,PWTES
+515,Traffic camera,1/1/2013 0:00,16th and Wewatta,CCD Traffic Engineering
+22,DACS,1/9/2012 0:00,Wewatta and 16th,CCD Traffic Engineering
+639,TRAFFICCAM,7/11/2016 0:00,Colfax and Elizabeth,PWTES
+637,TRAFFICCAM,6/26/2016 0:00,Tower and 61st Ave,PWTES
+376,AUTOSCOPE,1/9/2012 0:00,Wewatta and 16th,CCD Traffic Engineering
+641,TRAFFICCAM,7/14/2016 0:00,Mississippi and Dayton,PWTES
+640,TRAFFICCAM,7/14/2016 0:00,Mississippi and Valentia,PWTES
+661,TRAFFICCAM,11/10/2016 0:00,I-25 and Santa Fe,PWTES
+659,TRAFFICCAM,10/20/2016 0:00,14th and Galapago,PWTES
+656,TRAFFICCAM,9/29/2016 0:00,35th and Quebec,PWTES
+657,TRAFFICCAM,10/18/2016 0:00,Cherry and Mississippi,PWTES
+658,TRAFFICCAM,10/20/2016 0:00,36thW and Quebec,PWTES
+660,TRAFFICCAM,10/20/2016 0:00,CPB and Prarie Meadow,PWTES
+655,TRAFFICCAM,9/27/2016 0:00,Cherry Creek and Cherry,PWTES
+93,DACS,1/9/2012 0:00,Cherry Creek and Cherry,CCD Traffic Engineering
+345,AUTOSCOPE,1/9/2012 0:00,Cherry Creek and Cherry,CCD Traffic Engineering
+649,TRAFFICCAM,9/13/2016 0:00,I-70 and Quebec,PWTES
+650,TRAFFICCAM,9/15/2016 0:00,19th and Chestnut,PWTES
+662,TRAFFICCAM,1/24/2017 0:00,Auraria Pkwy and 11th St,PWTES
+663,TRAFFICCAM,2/13/2017 0:00,Lowry and Quebec,PWTES
+664,TRAFFICCAM,3/10/2017 0:00,Tower and 43rd,PWTES
+667,TRAFFICCAM,4/24/2017 0:00,Evans & Zuni,PWTES
+665,TRAFFICCAM,4/24/2017 0:00,Broadway & Mississippi,PWTES
+666,TRAFFICCAM,4/24/2017 0:00,MLK and Fulton,PWTES
+673,TRAFFICCAM,8/31/2017 0:00,Colorado Blvd and 11th,PWTES
+674,TRAFFICCAM,8/31/2017 0:00,I-70 and Steele,PWTES
+675,TRAFFICCAM,8/31/2017 0:00,Colfax and Fillmore,PWTES
+672,TRAFFICCAM,8/31/2017 0:00,Colfax and Steele,PWTES
+676,TRAFFICCAM,8/31/2017 0:00,Colfax and Columbine,PWTES
+680,TRAFFICCAM,11/7/2017 0:00,Champa and 13th,PWTES
+679,TRAFFICCAM,11/7/2017 0:00,Alameda and CCDS,PWTES
+681,TRAFFICCAM,12/11/2017 0:00,Dunkirk and 56th,PWTES
+651,TRAFFICCAM,9/15/2016 0:00,18th and Wewatta,PWTES
+652,TRAFFICCAM,9/19/2016 0:00,16th and Chestnut,PWTES
+653,TRAFFICCAM,9/22/2016 0:00,Alameda and Dahlia,PWTES
+654,TRAFFICCAM,9/27/2016 0:00,Alameda and Clinton,PWTES
+643,TRAFFICCAM,8/4/2016 0:00,Broadway and Cedar,PWTES
+644,TRAFFICCAM,8/12/2016 0:00,Colfax and Garfield,PWTES
+645,TRAFFICCAM,8/16/2016 0:00,Colfax and Welton,PWTES
+646,TRAFFICCAM,8/18/2016 0:00,Leetsdale and Cherry,PWTES
+648,TRAFFICCAM,8/25/2016 0:00,6th Ave and Knox,PWTES
+647,TRAFFICCAM,8/22/2016 0:00,6th Ave and Bryant,PWTES
+642,TRAFFICCAM,7/22/2016 0:00,CPB and 40th Ave,PWTES
+233,Traffic camera,1/9/2012 0:00,Colfax and Adams,CCD Traffic Engineering
+633,TRAFFICCAM,5/19/2016 0:00,Colfax and Uinta,PWTES
+632,TRAFFICCAM,5/19/2016 0:00,Colfax and Oneida,PWTES
+634,TRAFFICCAM,5/23/2016 0:00,Colfax and Glenco,PWTES
+631,TRAFFICCAM,5/12/2016 0:00,Colfax and Syracuse,PWTES
+635,TRAFFICCAM,4/27/2016 0:00,Hooker and Irving and 1st,PWTES
+636,TRAFFICCAM,6/9/2016 0:00,Broadway and 16th Ave,PWTES
+670,TRAFFICCAM,6/21/2017 0:00,Santa Fe and 8th,PWTES
+668,TRAFFICCAM,6/21/2017 0:00,Larimer and 21st,PWTES
+669,TRAFFICCAM,6/21/2017 0:00,Bayaud and Downing,PWTES
+671,TRAFFICCAM,7/13/2017 0:00,Santa Fe and 6th,PWTES
+677,TRAFFICCAM,10/4/2017 0:00,Morrison and Raleigh,PWTES
+678,TRAFFICCAM,10/13/2017 0:00,Lawrence and 22nd,PWTES
+551,Traffic camera,1/1/2014 0:00,6th and Sheridan S,CCD Traffic Engineering
+552,Traffic camera,1/1/2014 0:00,Wastewater Roof,CCD Traffic Engineering
+553,Traffic camera,1/1/2014 0:00,48th/49th Pecos MB,CCD Traffic Engineering
+554,Traffic camera,1/1/2014 0:00,46th/47th Pecos MB,CCD Traffic Engineering
+555,Traffic camera,1/1/2014 0:00,I-70 and Havana N,CCD Traffic Engineering
+556,Traffic camera,1/1/2014 0:00,I-70 and Peoria N ,CCD Traffic Engineering
+557,Traffic camera,1/1/2014 0:00,Evans and Platte W,CCD Traffic Engineering
+558,Traffic camera,1/1/2014 0:00,Florida and Tennyson,CCD Traffic Engineering
+559,Traffic camera,1/1/2014 0:00,I-70 and Colorado N,CCD Traffic Engineering
+560,Traffic camera,1/1/2014 0:00,I-25 and 15th/Central,CCD Traffic Engineering
+563,Traffic camera,1/1/2014 0:00,Sheridan and 29th,CCD Traffic Engineering
+564,Traffic camera,1/1/2014 0:00,Federal and 52nd ,CCD Traffic Engineering
+565,Traffic camera,1/1/2014 0:00,Federal and 46th ,CCD Traffic Engineering
+566,Traffic camera,1/1/2014 0:00,Federal and Louisiana,CCD Traffic Engineering
+567,Traffic camera,1/1/2014 0:00,Sheridan and 41st,CCD Traffic Engineering
+568,Traffic camera,1/1/2014 0:00,Quebec and Sand Creek,CCD Traffic Engineering
+569,Traffic camera,1/1/2014 0:00,Quebec and Smith Rd SB,CCD Traffic Engineering
+570,Traffic camera,1/1/2014 0:00,Quebec and Smith Rd NB,CCD Traffic Engineering
+571,Traffic camera,12/8/2014 0:00,Federal and 50th ,CCD Traffic Engineering
+572,Traffic camera,1/1/2014 0:00,Dahlia and Smith Rd,CCD Traffic Engineering
+573,Traffic camera,1/1/2014 0:00,Monaco and Iliff,CCD Traffic Engineering
+575,Traffic camera,1/1/2014 0:00,Sheridan and Evans,CCD Traffic Engineering
+576,Traffic camera,1/1/2014 0:00,Havana and Girard,CCD Traffic Engineering
+577,Traffic camera,1/1/2014 0:00,17th and Esplanade,CCD Traffic Engineering
+578,Traffic camera,1/1/2014 0:00,Havana and Smith Rd,CCD Traffic Engineering
+579,Traffic camera,1/1/2014 0:00,Evans and Oneida,CCD Traffic Engineering
+580,Traffic camera,1/1/2014 0:00,1st and Gilpin,CCD Traffic Engineering
