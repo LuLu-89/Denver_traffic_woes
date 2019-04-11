@@ -6,7 +6,7 @@
 4,147,Traffic camera,15th and Larimer,CCD Traffic Engineering,2012-01-09,39.7482765,-104.9986245
 5,148,Traffic camera,15th and Champa,CCD Traffic Engineering,2012-01-09,39.745616,-104.9951324
 6,149,Traffic camera,14th and Broadway,CCD Traffic Engineering,2012-01-09,39.7384472,-104.9873959
-7,150,Traffic camera,14th and Bannock,CCD Traffic Engineering,2012-01-09,39.74000849999999,-104.990262
+7,150,Traffic camera,14th and Bannock,CCD Traffic Engineering,2012-01-09,39.738449,-104.9902579
 8,151,Traffic camera,14th and Stout,CCD Traffic Engineering,2012-01-09,39.7439769,-104.9954394
 9,152,Traffic camera,14th and Logan,CCD Traffic Engineering,2012-01-09,39.7384356,-104.9823251
 10,153,Traffic camera,14th and Kalamath,CCD Traffic Engineering,2012-01-09,39.7384687,-105.0001696
@@ -31,13 +31,13 @@
 27,170,Traffic camera,I-25 and Alameda E,CCD Traffic Engineering,2012-01-09,39.701418,-104.990111
 28,171,Traffic camera,I-25 and Speer,CCD Traffic Engineering,2012-01-09,39.7568579,-105.0155944
 29,172,Traffic camera,I-270 and Quebec,CCD Traffic Engineering,2012-01-09,39.7966819,-104.9291962
-30,173,Traffic camera,Florida and Santa Fe,CCD Traffic Engineering,2012-01-09,39.6911598,-104.9927947
+30,173,Traffic camera,Florida and Santa Fe,CCD Traffic Engineering,2012-01-09,39.6903735,-104.9919444
 31,174,Traffic camera,Federal and Mississippi,CCD Traffic Engineering,2012-01-09,39.696427,-105.024608
 32,175,Traffic camera,23rd and Federal,CCD Traffic Engineering,2012-01-09,39.7512055,-105.0252744
 33,176,Traffic camera,Downing and MLK and Champa,CCD Traffic Engineering,2012-01-09,39.7620725,-104.9738916
 34,177,Traffic camera,Chambers GVR,CCD Traffic Engineering,2012-01-09,39.784676,-104.80949
 35,178,Traffic camera,I-70 and Brighton Blvd,CCD Traffic Engineering,2012-01-09,39.7788005,-104.9421082
-36,179,Traffic camera,I-70 (Stapleton Dr S) and Dahlia,CCD Traffic Engineering,2012-01-09,39.7797583,-104.9316731
+36,179,Traffic camera,I-70 (Stapleton Dr S) and Dahlia,CCD Traffic Engineering,2012-01-09,39.7778208,-104.9159128
 37,180,Traffic camera,I-70 and Federal,CCD Traffic Engineering,2012-01-09,39.784925,-105.024743
 38,181,Traffic camera,I-70 and Havana,CCD Traffic Engineering,2012-01-09,39.7725177,-104.8648724
 39,182,Traffic camera,I-70 and Holly (Stapleton Dr S),CCD Traffic Engineering,2012-01-09,39.7797337,-104.9863593
@@ -48,7 +48,7 @@
 44,598,Traffic camera,Northfield and Dallas,CCD Traffic Engineering,2014-01-01,39.7821734,-104.8762527
 45,599,Traffic camera,4th and Josephine,CCD Traffic Engineering,2014-01-01,39.7225543,-104.9582594
 46,600,Traffic camera,Florida and Zuni,CCD Traffic Engineering,2014-01-01,39.6895214,-105.0156999
-47,601,Traffic camera,13th and Arapahoe/Champa,CCD Traffic Engineering,2014-01-01,39.7521423,-104.9866604
+47,601,Traffic camera,13th and Arapahoe/Champa,CCD Traffic Engineering,2014-01-01,39.7450679,-104.9992703
 48,603,Traffic camera,12th and Bannock,CCD Traffic Engineering,2015-01-20,39.7352595,-104.9902529
 49,604,Traffic camera,11th and Yosemite,CCD Traffic Engineering,2015-03-13,39.7328402,-104.8847607
 50,605,Traffic camera,14th and Yosemite,CCD Traffic Engineering,2015-03-20,39.7387073,-104.8846556
@@ -109,11 +109,11 @@
 Colorado and 40th",CCD Traffic Engineering,2012-01-09,39.775976,-104.9426979
 105,620,Traffic camera,Chambers and 56th,CCD Traffic Engineering,2015-12-09,39.7983018,-104.8095203
 106,55,DACS,Yale and I-25 W,CCD Traffic Engineering,2012-01-09,39.6677377,-104.9271824
-107,423,Traffic camera,Colfax and Elliot,CCD Traffic Engineering,2014-12-08,39.741865,-104.980782
+107,423,Traffic camera,Colfax and Elliot,CCD Traffic Engineering,2014-12-08,39.7301069,-104.937882
 108,429,Traffic camera,University and Yale,CCD Traffic Engineering,2014-12-08,39.6686091,-104.9286854
-109,452,Traffic camera,Alameda and Washington,CCD Traffic Engineering,2014-12-08,39.7112219,-104.9014912
+109,452,Traffic camera,Alameda and Washington,CCD Traffic Engineering,2014-12-08,39.7358731,-104.9787157
 110,458,Traffic camera,Alameda and Stuart,CCD Traffic Engineering,2014-12-08,39.71114499999999,-105.044146
-111,459,Traffic camera,Alameda and Zuni,CCD Traffic Engineering,2014-12-08,39.6841313,-105.0156855
+111,459,Traffic camera,Alameda and Zuni,CCD Traffic Engineering,2014-12-08,39.689066,-105.0156834
 112,462,Traffic camera,Monaco and MLK,CCD Traffic Engineering,2014-12-08,39.7618414,-104.9128552
 113,463,Traffic camera,6th and Monaco,CCD Traffic Engineering,2014-12-08,39.725682,-104.913073
 114,465,Traffic camera,I-25 and Yale W ,CCD Traffic Engineering,2012-01-01,39.668704,-104.9273175
@@ -130,7 +130,7 @@ Colorado and 40th",CCD Traffic Engineering,2012-01-09,39.775976,-104.9426979
 125,562,Traffic camera,Univsersity and Louisiana,CCD Traffic Engineering,2014-01-01,39.7463596,-105.002342
 126,101,DACS,Colorado and Evans,CCD Traffic Engineering,2012-01-09,39.6795686,-104.8752735
 127,102,DACS,Hampden and Colorado,CCD Traffic Engineering,2012-01-09,39.6530792,-104.9406058
-128,103,DACS,I-25 N and Colorado,CCD Traffic Engineering,2012-01-09,39.7000326,-104.9887908
+128,103,DACS,I-25 N and Colorado,CCD Traffic Engineering,2012-01-09,39.7388881,-105.0140654
 129,105,DACS,Speer and Elitch,CCD Traffic Engineering,2012-01-09,39.7524218,-105.0073363
 130,106,DACS,Birch St and Cherry Creek S,CCD Traffic Engineering,2012-01-09,39.7051154,-104.9363623
 131,108,DACS,Sheridan and 44th,CCD Traffic Engineering,2012-01-09,39.77656750000001,-105.0532361
@@ -146,7 +146,7 @@ Colorado and 40th",CCD Traffic Engineering,2012-01-09,39.775976,-104.9426979
 141,120,Traffic camera,Broadway and Blake,CCD Traffic Engineering,2012-01-09,39.7595428,-104.9875818
 142,121,Traffic camera,Alameda and Broadway,CCD Traffic Engineering,2012-01-09,39.6219852,-104.9880642
 143,122,Traffic camera,8th and Broadway,CCD Traffic Engineering,2012-01-09,39.7290859,-104.9874165
-144,123,Traffic camera,Alameda and Sheridan,CCD Traffic Engineering,2012-01-09,39.6729317,-105.0532664
+144,123,Traffic camera,Alameda and Sheridan,CCD Traffic Engineering,2012-01-09,39.71097470000001,-105.0527919
 145,124,Traffic camera,56th and Tower,CCD Traffic Engineering,2012-01-09,39.79873,-104.771986
 146,125,Traffic camera,56th and Pena,CCD Traffic Engineering,2012-01-09,39.7996879,-104.7549981
 147,126,Traffic camera,48th (GVR) and Tower,CCD Traffic Engineering,2012-01-09,39.7833417,-104.768192
@@ -174,19 +174,19 @@ Colorado and 40th",CCD Traffic Engineering,2012-01-09,39.775976,-104.9426979
 169,621,Traffic camera,Evans and Santa Fe,CCD Traffic Engineering,2016-01-15,39.6779134,-104.9920539
 170,622,Traffic camera,Brighton and 29th,CCD Traffic Engineering,2016-01-22,39.7643956,-104.986501
 171,623,Traffic camera,Zuni and 29th,CCD Traffic Engineering,2016-02-16,39.7584075,-105.0158417
-172,624,Traffic camera,Cherry Creek Drive North and Holly,CCD Traffic Engineering,2016-02-17,39.6966044,-104.9218907
+172,624,Traffic camera,Cherry Creek Drive North and Holly,CCD Traffic Engineering,2016-02-17,39.718868,-104.948569
 173,625,Traffic camera,Marion/Walnut and 38th,CCD Traffic Engineering,2016-02-22,39.7702541,-104.9720175
 174,626,Traffic camera,Morrison and Perry,CCD Traffic Engineering,2016-02-22,39.7063461,-105.0397028
 175,224,Traffic camera,8th and Federal,CCD Traffic Engineering,2012-01-09,39.7293122,-105.025176
 176,225,Traffic camera,2nd and Federal,CCD Traffic Engineering,2012-01-09,39.719328,-105.025441
 177,226,Traffic camera,Evans and University,CCD Traffic Engineering,2012-01-09,39.6793255,-104.961337
-178,227,Traffic camera,DTC and Union/Temple,CCD Traffic Engineering,2012-01-09,39.7392358,-104.990251
+178,227,Traffic camera,DTC and Union/Temple,CCD Traffic Engineering,2012-01-09,39.7531617,-105.0001705
 179,1,DACS,York and 23rd,CCD Traffic Engineering,2012-01-09,39.7507611,-104.9597482
-180,2,DACS,I-25 and 23rd SB O/R,CCD Traffic Engineering,2012-01-09,39.6786822,-104.92506
+180,2,DACS,I-25 and 23rd SB O/R,CCD Traffic Engineering,2012-01-09,39.7528166,-104.8473701
 181,3,DACS,Buchtel and High,CCD Traffic Engineering,2012-01-09,39.6848421,-104.9650051
 182,4,DACS,Speer and 11th,CCD Traffic Engineering,2012-01-09,39.7336406,-104.9940862
 183,5,DACS,47th and Dallas,CCD Traffic Engineering,2012-01-09,39.7821734,-104.8762527
-184,6,DACS,I-25 and Hampden E,CCD Traffic Engineering,2012-01-09,39.6540202,-104.9158437
+184,6,DACS,I-25 and Hampden E,CCD Traffic Engineering,2012-01-09,39.652792,-104.9162821
 185,7,DACS,I-25 and Hampden W,CCD Traffic Engineering,2012-01-09,39.6540202,-104.9158437
 186,10,DACS,Buchtel and Logan and Mississippi,CCD Traffic Engineering,2012-01-09,39.6964149,-104.8749309
 187,11,DACS,Fulton and Fulton,CCD Traffic Engineering,2012-01-09,39.7697314,-104.9776461
@@ -194,7 +194,7 @@ Colorado and 40th",CCD Traffic Engineering,2012-01-09,39.775976,-104.9426979
 189,15,DACS,Quebec and I-270,CCD Traffic Engineering,2012-01-09,52.9399159,-73.5491361
 190,16,DACS,Quebec and I-70 N,CCD Traffic Engineering,2012-01-09,39.7401987,-104.9034654
 191,17,DACS,Quebec and I-70 S,CCD Traffic Engineering,2012-01-09,39.7806719,-104.9044937
-192,18,DACS,Quebec and Sand Creek,CCD Traffic Engineering,2012-01-09,39.8307002,-104.9032274
+192,18,DACS,Quebec and Sand Creek,CCD Traffic Engineering,2012-01-09,39.772554,-104.8997568
 193,19,DACS,Sheridan and Colfax,CCD Traffic Engineering,2012-01-09,39.7403111,-105.0532179
 194,20,DACS,I-25 and Speer,CCD Traffic Engineering,2012-01-09,39.7568579,-105.0155944
 195,21,DACS,19th and Wynkoop,CCD Traffic Engineering,2012-01-09,39.7546767,-104.9973411
@@ -205,7 +205,7 @@ Colorado and 40th",CCD Traffic Engineering,2012-01-09,39.775976,-104.9426979
 200,28,DACS,Northfield and Uinta,CCD Traffic Engineering,2012-01-09,39.7856105,-104.8931359
 201,29,DACS,Verbena and 49th,CCD Traffic Engineering,2012-01-09,39.787824,-104.8904902
 202,30,DACS,Colorado and Louisiana,CCD Traffic Engineering,2012-01-09,39.6931889,-104.877636
-203,31,DACS,Colorado and MLK,CCD Traffic Engineering,2012-01-09,39.761787,-104.9406561
+203,31,DACS,Colorado and MLK,CCD Traffic Engineering,2012-01-09,39.78077070000001,-104.7605391
 204,32,DACS,Colorado and Mexico,CCD Traffic Engineering,2012-01-09,39.6850429,-104.9401533
 205,34,DACS,Elm and Montview,CCD Traffic Engineering,2012-01-09,39.7474209,-104.9298447
 206,35,DACS,I-25 and Evans W,CCD Traffic Engineering,2012-01-09,39.7388881,-105.0140654
@@ -228,7 +228,7 @@ Colorado and 40th",CCD Traffic Engineering,2012-01-09,39.775976,-104.9426979
 223,276,Traffic camera,18th and Broadway/Tremont,CCD Traffic Engineering,2012-01-09,39.744927,-104.9874018
 224,277,Traffic camera,17th and Logan,CCD Traffic Engineering,2012-01-09,39.743198,-104.98209
 225,278,Traffic camera,Colfax and Pearl,CCD Traffic Engineering,2012-01-09,39.7400216,-104.9799114
-226,279,Traffic camera,48th and Vasquez,CCD Traffic Engineering,2012-01-09,39.7838157,-104.9477613
+226,279,Traffic camera,48th and Vasquez,CCD Traffic Engineering,2012-01-09,39.7838181,-104.9473806
 227,280,Traffic camera,13th and Josephine,CCD Traffic Engineering,2012-01-09,39.7368142,-104.9586182
 228,281,Traffic camera,14th and Market,CCD Traffic Engineering,2012-01-09,39.7480015,-105.0006961
 229,282,Traffic camera,13th and Zuni,CCD Traffic Engineering,2012-01-09,39.7369223,-105.0159668
@@ -265,14 +265,14 @@ Colorado and 17th",CCD Traffic Engineering,2012-01-09,39.7435392,-104.9829703
 258,48,DACS,Hampden and Monaco,CCD Traffic Engineering,2012-01-09,39.654101,-104.914423
 259,49,DACS,Hampden and Tamarac,CCD Traffic Engineering,2012-01-09,39.6530411,-104.8986912
 260,50,DACS,Hampden and Yosemite,CCD Traffic Engineering,2012-01-09,39.6531399,-104.8846716
-261,228,Traffic camera,Colorado and MLK,CCD Traffic Engineering,2012-01-09,39.761787,-104.9406561
+261,228,Traffic camera,Colorado and MLK,CCD Traffic Engineering,2012-01-09,39.78077070000001,-104.7605391
 262,229,Traffic camera,Colorado and Louisiana,CCD Traffic Engineering,2012-01-09,39.6931889,-104.877636
 263,230,Traffic camera,Colorado and Evans,CCD Traffic Engineering,2012-01-09,39.6795686,-104.8752735
 264,231,Traffic camera,Colorado and Cherry Creek South,CCD Traffic Engineering,2012-01-09,39.7060081,-104.9408606
 265,232,Traffic camera,Colfax and Speer ,CCD Traffic Engineering,2012-01-09,39.7401893,-104.9989117
 266,234,Traffic camera,Alameda and University,CCD Traffic Engineering,2012-01-09,39.7112095,-104.959251
 267,235,Traffic camera,38th and Fox/Park Avenue West,CCD Traffic Engineering,2012-01-09,39.7526974,-104.9847648
-268,236,Traffic camera,20th and Broadway/California,CCD Traffic Engineering,2012-01-09,39.7496899,-104.986315
+268,236,Traffic camera,20th and Broadway/California,CCD Traffic Engineering,2012-01-09,39.74892690000001,-104.9873841
 269,237,Traffic camera,20th and Arapahoe,CCD Traffic Engineering,2012-01-09,39.7515938,-104.9908485
 270,238,Traffic camera,Alameda and Knox/Morrison,CCD Traffic Engineering,2012-01-09,39.7107169,-105.0343812
 271,239,Traffic camera,13th and Santa Fe,CCD Traffic Engineering,2012-01-09,39.737446,-104.998614
@@ -301,7 +301,7 @@ Colorado and 17th",CCD Traffic Engineering,2012-01-09,39.7435392,-104.9829703
 294,264,Traffic camera,Quebec and Evans/Iliff,CCD Traffic Engineering,2012-01-09,39.6766657,-104.9035151
 295,265,Traffic camera,Quebec and 26th,CCD Traffic Engineering,2012-01-09,39.75473179999999,-104.9034511
 296,266,Traffic camera,Alameda and Monaco,CCD Traffic Engineering,2012-01-09,39.6790245,-104.9127174
-297,267,Traffic camera,Evans and High,CCD Traffic Engineering,2012-01-09,39.678365,-104.964836
+297,267,Traffic camera,Evans and High,CCD Traffic Engineering,2012-01-09,39.5883005,-105.6438286
 298,268,Traffic camera,15th and Cleveland,CCD Traffic Engineering,2012-01-09,39.7409126,-104.9890212
 299,269,Traffic camera,Lincoln and Walsh,CCD Traffic Engineering,2012-01-09,39.6802848,-104.9365787
 300,270,Traffic camera,20th and Chestnut,CCD Traffic Engineering,2012-01-09,39.7577052,-104.9986723
@@ -330,7 +330,7 @@ Colorado and 17th",CCD Traffic Engineering,2012-01-09,39.7435392,-104.9829703
 323,205,Traffic camera,Quebec and MLK,CCD Traffic Engineering,2012-01-09,39.7611997,-104.90274
 324,206,Traffic camera,Alameda and Quebec,CCD Traffic Engineering,2012-01-09,39.711422,-104.90388
 325,207,Traffic camera,56th and Quebec,CCD Traffic Engineering,2012-01-09,39.798283,-104.9032709
-326,208,Traffic camera,Pena and Tower Rd N I/S,CCD Traffic Engineering,2012-01-09,39.8206666,-104.7731211
+326,208,Traffic camera,Pena and Tower Rd N I/S,CCD Traffic Engineering,2012-01-09,39.8560963,-104.6737376
 327,209,Traffic camera,Park Avenue West and Wazee,CCD Traffic Engineering,2012-01-09,39.7578975,-104.9917732
 328,210,Traffic camera,Market and Park Avenue West,CCD Traffic Engineering,2012-01-09,39.756794,-104.989862
 329,211,Traffic camera,Mississippi and Parker,CCD Traffic Engineering,2012-01-09,39.6963155,-104.8974793
@@ -350,7 +350,7 @@ Colorado and 17th",CCD Traffic Engineering,2012-01-09,39.7435392,-104.9829703
 343,359,AUTOSCOPE,I-25 and Hampden,CCD Traffic Engineering,2012-01-09,39.6540202,-104.9158437
 344,360,AUTOSCOPE,I-25 and Hampden,CCD Traffic Engineering,2012-01-09,39.6540202,-104.9158437
 345,361,AUTOSCOPE,Hampden and Monaco,CCD Traffic Engineering,2012-01-09,39.654101,-104.914423
-346,362,AUTOSCOPE,20th and Lipan,CCD Traffic Engineering,2012-01-09,39.7521007,-104.9911813
+346,362,AUTOSCOPE,20th and Lipan,CCD Traffic Engineering,2012-01-09,39.774272,-105.0017526
 347,363,AUTOSCOPE,Washington and I-70,CCD Traffic Engineering,2012-01-09,39.777773,-104.9787328
 348,364,AUTOSCOPE,Sheridan and Jewell,CCD Traffic Engineering,2012-01-09,39.6822886,-105.0531996
 349,365,AUTOSCOPE,Leetsdale and Quebec,CCD Traffic Engineering,2012-01-09,39.6985383,-104.9035438
@@ -359,7 +359,7 @@ Colorado and 17th",CCD Traffic Engineering,2012-01-09,39.7435392,-104.9829703
 352,368,AUTOSCOPE,Quebec and I-70,CCD Traffic Engineering,2012-01-09,39.7401987,-104.9034654
 353,370,AUTOSCOPE,York and 23rd,CCD Traffic Engineering,2012-01-09,39.7507611,-104.9597482
 354,371,AUTOSCOPE,20th and Chestnut,CCD Traffic Engineering,2012-01-09,39.7577052,-104.9986723
-355,372,AUTOSCOPE,Quebec and Sand Creek,CCD Traffic Engineering,2012-01-09,39.8307002,-104.9032274
+355,372,AUTOSCOPE,Quebec and Sand Creek,CCD Traffic Engineering,2012-01-09,39.772554,-104.8997568
 356,373,AUTOSCOPE,Speer and Elitch Cir,CCD Traffic Engineering,2012-01-09,39.7524218,-105.0073363
 357,374,AUTOSCOPE,56th and Tower,CCD Traffic Engineering,2012-01-09,39.79873,-104.771986
 358,375,AUTOSCOPE,Park Avenue West and Delgany and Wewatta,CCD Traffic Engineering,2012-01-09,39.7592985,-104.9936002
@@ -406,11 +406,11 @@ Colorado and 17th",CCD Traffic Engineering,2012-01-09,39.7435392,-104.9829703
 399,449,Traffic camera,GVR and Himalaya,CCD Traffic Engineering,2014-12-08,39.7693662,-104.7535083
 400,450,Traffic camera,Logan and Louisiana,CCD Traffic Engineering,2014-12-08,39.69309399999999,-104.983155
 401,451,Traffic camera,Sheridan and 10th,CCD Traffic Engineering,2014-12-08,39.7331157,-105.0532363
-402,453,Traffic camera,Alameda and Cherokee,CCD Traffic Engineering,2014-12-08,39.671285,-104.9911195
+402,453,Traffic camera,Alameda and Cherokee,CCD Traffic Engineering,2014-12-08,39.7114577,-104.9928433
 403,454,Traffic camera,Alameda and Logan,CCD Traffic Engineering,2014-12-08,39.7320372,-104.9822641
 404,400,Signal Reconstruction (MIL) PTZ,17th and Josephine,Signal Reconstruction,2014-12-08,39.7434613,-104.9591908
 405,401,Signal Reconstruction (MIL) PTZ,17th and York,Signal Reconstruction,2014-12-08,39.7432464,-104.9597896
-406,402,Traffic camera,23rd and York,CCD Traffic Engineering,2014-12-08,39.750755,-104.960201
+406,402,Traffic camera,23rd and York,CCD Traffic Engineering,2014-12-08,39.750466,-104.959839
 407,403,Traffic camera,Hampden and Dahlia,CCD Traffic Engineering,2014-12-08,39.65298019999999,-104.9316929
 408,404,Signal Reconstruction (MIL) PTZ,York and Botanical,Signal Reconstruction,2014-12-08,39.7320329,-104.9617885
 409,405,Traffic camera,23rd and Zoo,CCD Traffic Engineering,2014-12-08,39.7490526,-104.9460813
@@ -432,7 +432,7 @@ Colorado and 17th",CCD Traffic Engineering,2012-01-09,39.7435392,-104.9829703
 425,421,Traffic camera,Sheridan and Yale ,CCD Traffic Engineering,2014-12-08,39.6677814,-105.0532631
 426,422,Traffic camera,15th and Wewatta,CCD Traffic Engineering,2014-12-08,39.7516059,-105.0029714
 427,424,Signal Reconstruction (MIL) PTZ,Park Avenue West and Tremont ,Signal Reconstruction,2014-12-08,39.7496996,-104.9811072
-428,425,Signal Reconstruction (MIL) PTZ,Park and 18th/Ogden,Signal Reconstruction,2014-12-08,39.6866256,-104.9020203
+428,425,Signal Reconstruction (MIL) PTZ,Park and 18th/Ogden,Signal Reconstruction,2014-12-08,39.7401704,-104.9752697
 429,426,Signal Reconstruction (MIL) PTZ,17th and Steele,Signal Reconstruction,2014-12-08,39.7437942,-104.9500613
 430,427,HALO PTZ,Colfax and Downing,HALO,2014-12-08,39.7400162,-104.9730315
 431,313,Traffic camera,I-70 and Peoria S,CCD Traffic Engineering,2012-01-09,39.7172169,-104.8447225
@@ -462,7 +462,7 @@ Colorado and 6th",CCD Traffic Engineering,2012-01-09,39.72563900000001,-104.8389
 454,337,AUTOSCOPE,Leetsdale and Alameda,CCD Traffic Engineering,2012-01-09,39.7108,-104.9354041
 455,338,AUTOSCOPE,Colorado / Alameda,CCD Traffic Engineering,2012-01-09,39.71138,-104.939338
 456,339,AUTOSCOPE,Alameda and Federal,CCD Traffic Engineering,2012-01-09,39.7107873,-105.024647
-457,340,AUTOSCOPE,7th and Auraria (A side),CCD Traffic Engineering,2012-01-09,39.7433792,-105.007458
+457,340,AUTOSCOPE,7th and Auraria (A side),CCD Traffic Engineering,2012-01-09,39.7451081,-105.009531
 458,341,AUTOSCOPE,9th and Auraria,CCD Traffic Engineering,2012-01-09,39.7465455,-105.0076005
 459,342,AUTOSCOPE,20th and Blake,CCD Traffic Engineering,2012-01-09,39.7543406,-104.9943076
 460,343,AUTOSCOPE,Broadway and Kentucky,CCD Traffic Engineering,2012-01-09,39.70021759999999,-104.9875867
@@ -500,7 +500,7 @@ Colorado and 6th",CCD Traffic Engineering,2012-01-09,39.72563900000001,-104.8389
 492,541,Traffic camera,Jewell and Irving ,CCD Traffic Engineering,2013-01-01,39.6822418,-105.0298628
 493,542,Traffic camera,Jewell and Tennyson ,CCD Traffic Engineering,2013-01-01,39.6822362,-105.0442642
 494,543,Traffic camera,I-225 and Tamarac N,CCD Traffic Engineering,2014-12-08,39.637586,-104.8952023
-495,544,Traffic camera,I-225 and Tamarac S,CCD Traffic Engineering,2014-12-08,39.637586,-104.8952023
+495,544,Traffic camera,I-225 and Tamarac S,CCD Traffic Engineering,2014-12-08,39.656553,-104.9009329
 496,545,Traffic camera,Colfax and Williams,CCD Traffic Engineering,2013-01-01,39.7400109,-104.9660017
 497,546,Traffic camera,Monaco and Smith,CCD Traffic Engineering,2013-01-01,39.77325,-104.913234
 498,547,OTHER,Federal and 6th N,CCD Traffic Engineering,2013-01-01,39.785005,-105.027124
@@ -512,10 +512,10 @@ Colorado and 6th",CCD Traffic Engineering,2012-01-09,39.72563900000001,-104.8389
 504,457,Traffic camera,University and Dartmouth,CCD Traffic Engineering,2014-12-08,39.6608978,-104.8858811
 505,460,Traffic camera,Alameda and Perry,CCD Traffic Engineering,2014-12-08,39.711363,-105.040198
 506,461,Traffic camera,Monaco and Cherry Creek,CCD Traffic Engineering,2012-01-01,39.72015770000001,-104.9549937
-507,464,Traffic camera,48th (GVR) and Pena E I/S,CCD Traffic Engineering,2012-01-01,39.7831725,-104.7517169
+507,464,Traffic camera,48th (GVR) and Pena E I/S,CCD Traffic Engineering,2012-01-01,39.6742071,-104.8710514
 508,467,Traffic camera,36th and CPB,CCD Traffic Engineering,2012-01-01,39.769133,-104.9756084
 509,467,Traffic camera,I-25 and Yale E ,CCD Traffic Engineering,2014-12-08,39.6686091,-104.9286854
-510,468,Traffic camera,I-25 and Hampden E,CCD Traffic Engineering,2014-12-08,39.6540202,-104.9158437
+510,468,Traffic camera,I-25 and Hampden E,CCD Traffic Engineering,2014-12-08,39.652792,-104.9162821
 511,469,Traffic camera,56th and Dallas,CCD Traffic Engineering,2012-01-01,39.79848870000001,-104.8754477
 512,470,Traffic camera,I-25 and Wash/Buch/Ariz ,CCD Traffic Engineering,2012-01-01,39.7388881,-105.0140654
 513,471,Traffic camera,I-25 and Colorado N,RITZ,2012-01-01,39.7388881,-105.0140654
@@ -583,12 +583,12 @@ Colorado and 6th",CCD Traffic Engineering,2012-01-09,39.72563900000001,-104.8389
 575,659,TRAFFICCAM,14th and Galapago,PWTES,2016-10-20,39.738461,-104.9965013
 576,656,TRAFFICCAM,35th and Quebec,PWTES,2016-09-29,39.765637,-104.9034301
 577,657,TRAFFICCAM,Cherry and Mississippi,PWTES,2016-10-18,39.6965954,-104.9340323
-578,658,TRAFFICCAM,36thW and Quebec,PWTES,2016-10-20,39.8307002,-104.9032274
-579,660,TRAFFICCAM,CPB and Prarie Meadow,PWTES,2016-10-20,39.7915623,-104.885963
-580,655,TRAFFICCAM,Cherry Creek and Cherry,PWTES,2016-09-27,39.6903654,-104.9128548
-581,93,DACS,Cherry Creek and Cherry,CCD Traffic Engineering,2012-01-09,39.6903654,-104.9128548
-582,345,AUTOSCOPE,Cherry Creek and Cherry,CCD Traffic Engineering,2012-01-09,39.6903654,-104.9128548
-583,649,TRAFFICCAM,I-70 and Quebec,PWTES,2016-09-13,39.7401987,-104.9034654
+578,658,TRAFFICCAM,36thW and Quebec,PWTES,2016-10-20,39.787298,-104.9019374
+579,660,TRAFFICCAM,CPB and Prarie Meadow,PWTES,2016-10-20,39.792371,-104.890919
+580,655,TRAFFICCAM,Cherry Creek and Cherry,PWTES,2016-09-27,39.71684219999999,-104.9530774
+581,93,DACS,Cherry Creek and Cherry,CCD Traffic Engineering,2012-01-09,39.71684219999999,-104.9530774
+582,345,AUTOSCOPE,Cherry Creek and Cherry,CCD Traffic Engineering,2012-01-09,39.71684219999999,-104.9530774
+583,649,TRAFFICCAM,I-70 and Quebec,PWTES,2016-09-13,39.7707426,-104.9013287
 584,650,TRAFFICCAM,19th and Chestnut,PWTES,2016-09-15,39.75672309999999,-104.9999451
 585,662,TRAFFICCAM,Auraria Pkwy and 11th St,PWTES,2017-01-24,39.7474713,-105.0052562
 586,663,TRAFFICCAM,Lowry and Quebec,PWTES,2017-02-13,39.7171143,-104.9037737
@@ -631,19 +631,19 @@ Colorado and 6th",CCD Traffic Engineering,2012-01-09,39.72563900000001,-104.8389
 623,551,Traffic camera,6th and Sheridan S,CCD Traffic Engineering,2014-01-01,39.7277177,-105.0532475
 624,552,Traffic camera,Wastewater Roof,CCD Traffic Engineering,2014-01-01,39.8149471,-104.9578945
 625,553,Traffic camera,48th/49th Pecos MB,CCD Traffic Engineering,2014-01-01,39.7847668,-105.0071465
-626,554,Traffic camera,46th/47th Pecos MB,CCD Traffic Engineering,2014-01-01,39.78293550000001,-104.9400704
+626,554,Traffic camera,46th/47th Pecos MB,CCD Traffic Engineering,2014-01-01,39.7819849,-105.0063993
 627,555,Traffic camera,I-70 and Havana N,CCD Traffic Engineering,2014-01-01,39.7725177,-104.8648724
 628,556,Traffic camera,I-70 and Peoria N ,CCD Traffic Engineering,2014-01-01,39.7754842,-104.8459551
 629,557,Traffic camera,Evans and Platte W,CCD Traffic Engineering,2014-01-01,39.678311,-104.997066
 630,558,Traffic camera,Florida and Tennyson,CCD Traffic Engineering,2014-01-01,39.689494,-105.0442597
 631,559,Traffic camera,I-70 and Colorado N,CCD Traffic Engineering,2014-01-01,39.7797337,-104.9863593
-632,560,Traffic camera,I-25 and 15th/Central,CCD Traffic Engineering,2014-01-01,39.7000326,-104.9887908
+632,560,Traffic camera,I-25 and 15th/Central,CCD Traffic Engineering,2014-01-01,39.6808689,-104.9392596
 633,563,Traffic camera,Sheridan and 29th,CCD Traffic Engineering,2014-01-01,39.758472,-105.0532369
-634,564,Traffic camera,Federal and 52nd ,CCD Traffic Engineering,2014-01-01,39.7910748,-105.0252717
+634,564,Traffic camera,Federal and 52nd ,CCD Traffic Engineering,2014-01-01,39.7911885,-105.0215569
 635,565,Traffic camera,Federal and 46th ,CCD Traffic Engineering,2014-01-01,39.7802641,-105.025249
 636,566,Traffic camera,Federal and Louisiana,CCD Traffic Engineering,2014-01-01,39.7769431,-105.0247937
 637,567,Traffic camera,Sheridan and 41st,CCD Traffic Engineering,2014-01-01,39.7729535,-105.0532563
-638,568,Traffic camera,Quebec and Sand Creek,CCD Traffic Engineering,2014-01-01,39.8307002,-104.9032274
+638,568,Traffic camera,Quebec and Sand Creek,CCD Traffic Engineering,2014-01-01,39.772554,-104.8997568
 639,569,Traffic camera,Quebec and Smith Rd SB,CCD Traffic Engineering,2014-01-01,39.7715597,-104.9039062
 640,570,Traffic camera,Quebec and Smith Rd NB,CCD Traffic Engineering,2014-01-01,39.7696615,-104.8972643
 641,571,Traffic camera,Federal and 50th ,CCD Traffic Engineering,2014-12-08,39.7874257,-105.0252564
