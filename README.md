@@ -24,8 +24,8 @@ You can find our URL [here](https://du.bootcampcontent.com/angelamstowell/team_b
 
 ## Task Breakdown
 1. Angela: Proposal, Data Research, Pie Chart
-2. Lucy: Data Research, Line Chart(s)
+2. Lucy: Data Research, Bar Chart(s)
 3. Matt: Data Research, Pie Charts
-4. Tai: Scatterplot
-5. Brianna: Bar Chart
-6. Tatsuya: Clean Data Set, Heat Map
+4. Tai: Line Graphs. Population Data research
+5. Brianna: Heat Maps
+6. Tatsuya: Clean Data Set, Heat Maps
