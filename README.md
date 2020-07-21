@@ -7,7 +7,7 @@
 Is there a correlation between the increase in the Denver Metro area population and an increase in traffic accidents in the Denver Metro Area? 
 Can we project traffic incidents against project population growth in the Denver Metro area?
 
-## {your team members}
+## Team Members
 1. Lucy Ly, lucy.ly89@gmail.com
 2. Matthew Stewart, stewart.mw@hotmail.com
 3. Bri Von Feldt, briv1224@gmail.com
