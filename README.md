@@ -1,7 +1,5 @@
 # DU Data Viz Project Proposal
 
-## Team BMALTT
-
 ### Denver Traffic Woes
 
 Is there a correlation between the increase in the Denver Metro area population and an increase in traffic accidents in the Denver Metro Area? 
